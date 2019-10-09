@@ -20,18 +20,15 @@ button:
   - text: Learn More
     url: /who-we-are/
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: IMDA & ESG Collaboration
+    section-description:  loren ipsum
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: 
+    section-image-path: 
 
 resources-title: Resources
 resources-subtitle: Be in the know
