@@ -29,4 +29,20 @@ info-sections:
     external: false
     section-more-button-url: 
     section-image-path: 
+ info-sections:
+  - section-title: 
+    section-subtitle: Solving Sector-Wide Challenges
+    section-description:  loren ipsum
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: 
+    section-image-path: 
+ info-sections:
+  - section-title: 
+    section-subtitle: Partners
+    section-description:  loren ipsum
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: 
+    section-image-path: 
 
