@@ -11,8 +11,8 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Open Innovation Network
+hero-subtitle: Gateway to Find All Innovation Challenges in Singapore
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
@@ -30,7 +30,3 @@ info-sections:
     section-more-button-url: 
     section-image-path: 
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
