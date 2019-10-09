@@ -42,7 +42,7 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 
 collections:
   left-nav-one:
-    output: true
+    output: false
   left-nav-two:
-    output: true
+    output: false
 resources_name: resource-room
