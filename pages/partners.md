@@ -10,9 +10,8 @@ breadcrumb: Partners
 /images/partners/IPI_MasterLogoColAW_RGB.JPG
 /images/partners/padang&co logo_colour.png
 
-                                                                                                                
-                                                                                                                
-<img src="/images/partners/Agorize Logo.png" alt="1" style="float:right;width:266px;height:310px;margin:0px 20px">
+                                                                                                                                                                                                                             
+<img src="/images/partners/Agorize Logo.png" alt="1" style="float:right;width:266px;height:310px>
 
 <h3>Agorize</h3>
 
