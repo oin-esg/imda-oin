@@ -11,7 +11,7 @@ breadcrumb: Partners
 /images/partners/padang&co logo_colour.png
 
 table, th, td {
-  border: 0px solid black;
+  border: 1px solid white;
 }
 <table style="width:100%">
   <tr>
