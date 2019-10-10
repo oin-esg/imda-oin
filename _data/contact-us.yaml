@@ -16,14 +16,24 @@ locations:
       - days: Mon - Fri
         time: 9.00am - 6.00pm
         description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
+        
+ locations:
+  # HQ Address [REQUIRED]
+  - title:
+    address: 10 Central Exchange Green, Singapore 138649
+    find-directions: https://www.google.com/maps/place/PIXEL/@1.301044,103.790024,15z/data=!4m5!3m4!1s0x0:0x47f7261045316daf!8m2!3d1.301044!4d103.790024
+  # Operating Hours [OPTIONAL]
+    operating-hours:
+      - days: Mon - Fri
+        time: 9.00am - 6.00pm
+        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
 
 
  # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6377 3800
-    - line: info@imda.gov.sg (email)
+    - line: oin@enterprisesg.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
   - title: Fax
