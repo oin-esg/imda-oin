@@ -11,7 +11,7 @@ breadcrumb: Partners
 /images/partners/padang&co logo_colour.png
 
                                                                                                                                                                                                                              
-<img src="/images/partners/Agorize Logo.png" alt="1" style="float:right;width:266px;height:160px>
+<img src="/images/partners/Agorize Logo.png" alt="1" style="float:right;width:300px;height:200px>
 
 <h3>Agorize</h3>
 
