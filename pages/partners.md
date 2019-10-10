@@ -10,11 +10,7 @@ breadcrumb: Partners
 /images/partners/IPI_MasterLogoColAW_RGB.JPG
 /images/partners/padang&co logo_colour.png
 
-<style type="text/css">
-table, th, td {
-  border: 1px solid white;
-}
-<table style="width:100%">
+
   <tr>
     <th><h3>Agorize</h3></th>
     <th></th>
