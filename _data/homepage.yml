@@ -18,7 +18,7 @@ hero-banner: /images/hero-banner.png
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about/
     
 # Info Sections
 info-sections:
@@ -27,7 +27,7 @@ info-sections:
     section-description:  OIN supports open innovation in Singapore by providing a one-stop directory of challenges and community partners
     section-more-button: Find out more
     external: false
-    section-more-button-url: 
+    section-more-button-url: /about/
     section-image-path: 
     
   - section-title: 
@@ -35,7 +35,7 @@ info-sections:
     section-description:  Search for live open innovation challenges happening in Singapore
     section-more-button: Learn more
     external: false
-    section-more-button-url: 
+    section-more-button-url: /ongoing-challenges/
     section-image-path: 
 
   - section-title: 
@@ -47,10 +47,10 @@ info-sections:
     section-image-path:
     
   - section-title: 
-    section-subtitle: Sector-Wide Challenges
+    section-subtitle: Partners
     section-description:  Find out who our partners are in this open innovation ecosystem
     section-more-button: Learn more
     external: false
-    section-more-button-url: 
+    section-more-button-url: /partners/
     section-image-path: 
 
