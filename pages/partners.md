@@ -10,15 +10,6 @@ breadcrumb: Partners
 /images/partners/IPI_MasterLogoColAW_RGB.JPG
 /images/partners/padang&co logo_colour.png
 
-<table style="width:100%">
-  <tr>
-    <th colspan="2"><h3>Agorize</h3></th>
-  </tr>
-  <tr>
-    <td>Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation challenges.<br><a href="https://www.agorize.com/en" target="_blank">Learn more</a></td>
-    <td style="width:250px; height:250px; text-align:center><img src="/images/partners/Agorize Logo.png" alt="1"></td>
-  </tr>
-</table>
                                                                                                                 
                                                                                                                 
 <img src="/images/partners/Agorize Logo.png" alt="1" style="float:right;width:266px;height:310px;margin:0px 20px">
