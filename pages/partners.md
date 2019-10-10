@@ -13,7 +13,7 @@ Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, German
 
 [Learn more](https://www.agorize.com/en){:target="_blank"}
 
-<img src="/images/partners/ICMG logo.PNG" alt="1" style="width:400px;height:107px">
+<img src="/images/partners/ICMG logo.PNG" alt="1">
 
 <h3>ICMG Pte Ltd</h3>
 
@@ -22,7 +22,7 @@ ICMG aims to become Asia’s most admired accelerator who constantly work toward
 [Learn more](https://www.icmg.com.sg/en/#concept){:target="_blank"}
 
 
-<img src="/images/partners/IPI_MasterLogoColAW_RGB.JPG" alt="1" style="width:400px;height:107px">
+<img src="/images/partners/IPI_MasterLogoColAW_RGB.JPG" alt="1">
 
 <h3>IPI</h3>
 
@@ -30,7 +30,7 @@ IPI is an open innovation platform for enterprises seeking collaboration with ex
 
 [Learn more](https://www.ipi-singapore.org){:target="_blank"}
 
-<img src="//images/partners/padang&co logo_colour.png" alt="1" style="width:400px;height:107px">
+<img src="/images/partners/padang&co logo_colour.png" alt="1">
 
 <h3>Padang & Co</h3>
 
