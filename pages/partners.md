@@ -4,12 +4,10 @@ title: Open Innovation Networks Partners
 permalink: /partners/
 breadcrumb: Partners
 ---
-                                                                                   
+
+<h3>Agorize</h3>                                                                                   
 <img src="/images/partners/Agorize Logo.png" alt="1>" style="width:400px;height:107px">
 Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation challenges.
-<h3>Agorize</h3>
-
-<p align="left">Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation challenges.</p>
 
 [Learn more](https://www.agorize.com/en){:target="_blank"}
 
