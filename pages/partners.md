@@ -7,7 +7,7 @@ breadcrumb: Partners
 
 <h3>Agorize</h3>                                                                                   
 <img src="/images/partners/Agorize Logo.png" alt="1>" style="width:450px;height:120px">
-<p align="left"><small>Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation<br> challenges.</small></p>
+<small>Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation challenges.</small>
 
 [Learn more](https://www.agorize.com/en){:target="_blank"}
 
