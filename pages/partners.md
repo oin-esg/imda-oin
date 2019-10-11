@@ -12,7 +12,7 @@ Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, German
 
 [Learn more](https://www.agorize.com/en){:target="_blank"}
 
-<img src="/images/partners/ICMG logo.PNG" alt="1">
+<img src="/images/partners/ICMG logo.PNG" alt="1" style="width:310px;height:112px">
 
 <h3>ICMG Pte Ltd</h3>
 
