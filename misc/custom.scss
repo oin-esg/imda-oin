@@ -39,7 +39,7 @@ $desktop: 960px + (2 * $gap) !default;
 // Background
 .bg{
   &-primary{
-    background-color: $primary !important;
+    background-color: $tertiary !important;
   }
   &-secondary {
     background-color: $secondary !important;
