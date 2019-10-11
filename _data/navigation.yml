@@ -23,5 +23,12 @@
         external: true
 - title: Ongoing Challenges
   url: /ongoing-challenges/
+  sub-links:
+      - title: IMDA Open Innovation Platform (OIP)
+        url: https://www.openinnovation.sg/about
+        external: true
+      - title: iMUSE Open Innovation Challenge
+        url: https://www.imuse-innovationchallenge.com/en/challenges/imuse-innovation-challenge?lang=en
+        external: true
 - title: Contact Us
   url: /contact-us/
