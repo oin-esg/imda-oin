@@ -7,7 +7,7 @@ breadcrumb: Ongoing Challenges
 ### **Open for Application**
 
 #### IMDA Open Innovation Platform (OIP)<br>
-<small><b>IMDA</b></small>
+<b><i>IMDA</i></b>
 
 ![1](/images/ongoing-challenges/OIP challenge banner.jpg)
 
@@ -18,7 +18,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 [Learn more](https://www.openinnovation.sg/about){:target="_blank"}
 
 ### iMUSE Open Innovation Challenge<br> 
-<small><b>Kirin</b></small>
+<b><i>Kirin</i></b>
 
 ![2](/images/ongoing-challenges/iMuse challenge banner.png)
 
