@@ -11,8 +11,6 @@ breadcrumb: Partners
 
 <p align="left">Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation challenges.</p>
 
-Founded in Paris in 2011 with offices across Singapore, Hong Kong, Japan, Germany and Canada, Agorize has supported over 200 international companies in furthering their innovation strategies by connecting them with our community of 5 million innovators through open innovation challenges.
-
 [Learn more](https://www.agorize.com/en){:target="_blank"}
 
 <img src="/images/partners/ICMG logo.PNG" alt="1">
