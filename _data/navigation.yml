@@ -8,6 +8,19 @@
   url: /about/
 - title: Partners
   url: /partners/
+  sub-links:
+      - title: Agorize
+        url: https://www.agorize.com/en
+        external: true
+      - title: ICMG Pte Ltd
+        url: https://www.icmg.com.sg/en/#concept
+        external: true
+      - title: IPI
+        url: https://www.ipi-singapore.org/about-ipi
+        external: true
+      - title: Padang & Co
+        url: http://www.padang.co
+        external: true
 - title: Ongoing Challenges
   url: /ongoing-challenges/
 - title: Contact Us
