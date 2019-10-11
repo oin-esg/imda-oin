@@ -9,13 +9,15 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 10 Central Exchange Green, Singapore 138649
-    find-directions: https://www.google.com/maps/place/PIXEL/@1.301044,103.790024,15z/data=!4m5!3m4!1s0x0:0x47f7261045316daf!8m2!3d1.301044!4d103.790024
+    address: 1 Fusionopolis Walk <br>#01-02 South Tower, Solaris <br>Singapore 138649
+    find-directions: https://www.google.com/maps/place/1+Fusionopolis+Walk,+01+Solaris,+Singapore+138628/@1.2979626,103.7879226,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4f70d14829:0x9ec08b4efee4305b!8m2!3d1.2979572!4d103.7901166
   # Operating Hours [OPTIONAL]
     operating-hours:
-      - days: Mon - Fri
-        time: 9.00am - 6.00pm
-        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
+      - days: Mon - Thu
+        time: 8:30am - 6:00pm        
+      - days: Fri
+        time: 8:30am - 5:30pm
+        description: "Closed on Weekends and Public Holidays"
 
 
  # Contact Us
@@ -25,9 +27,6 @@ column:
     - line: oin@enterprisesg.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
-  - title: Fax
-    content:
-    - line: +65 6222 4452
 
 # Image
 image-url:
