@@ -143,7 +143,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Text color
 .has-text-primary {
-	color: $primary !important;
+	color: $quarternary !important;
 }
 .has-text-secondary {
 	color: $quarternary !important;
@@ -166,7 +166,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bp-button.is-text span {
   &:hover, &:focus {
-    color: $tertiary;
+    color: $primary;
   }
 }
 .bp-button:hover {
