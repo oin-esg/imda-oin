@@ -18,6 +18,22 @@ $media-color-five: #00838f;
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
 // Mixins
 
 @mixin touch() {
