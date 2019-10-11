@@ -5,7 +5,7 @@ permalink: /partners/
 breadcrumb: Partners
 ---
                                                                                    
-<img src="/images/partners/Agorize Logo.png" alt="1" style="width:400px;height:107px">
+<img src="/images/partners/Agorize Logo.png" alt="1" style="width:400px;height:107px;align:"right"">
 
 <h3>Agorize</h3>
 
