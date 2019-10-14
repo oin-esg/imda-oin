@@ -28,7 +28,7 @@ info-sections:
     section-more-button: Find out more
     external: false
     section-more-button-url: /about/
-    section-image-path: 
+    section-image-path: /images/about-oin.jpg
     
   - section-title: 
     section-subtitle: Ongoing Challenges
@@ -36,7 +36,7 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /ongoing-challenges/
-    section-image-path: 
+    section-image-path: /images/ongoing-challenges.jpg
 
   - section-title: 
     section-subtitle: Sector-Wide Challenges
@@ -44,7 +44,7 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /sector-wide-challenges/
-    section-image-path:
+    section-image-path: /images/sector-wide-challenges.jpg
     
   - section-title: 
     section-subtitle: Partners
@@ -52,5 +52,5 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /partners/
-    section-image-path: 
+    section-image-path: /images/partners.jpg
 
