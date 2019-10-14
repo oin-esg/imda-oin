@@ -175,7 +175,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Secondary button
 .bp-sec-button {
-	color: $secondary;
+	color: $primary;
 	& span {
 		border-bottom: 2px solid $secondary !important;
 	}
