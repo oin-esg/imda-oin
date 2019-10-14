@@ -14,6 +14,7 @@ The OIN supports open innovation in Singapore by providing a one-stop directory 
 
 With OIN, the future of open innovation in Singapore will be more extensive, collaborative and engaged with the regional and global open innovation community.
 
+![2](/images/about/esg-imda-collaboration.jpeg)
 
 #### ESG-IMDA Collaboration
 
