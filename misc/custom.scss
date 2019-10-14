@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #E7131A;
-$secondary: #6F358D;
+$primary: #6F358D;
+$secondary: #E7131A;
 $tertiary: #6F358D;
 $quarternary: #E7131A;
 $secondary-hover: lighten($secondary, 10%);
@@ -201,7 +201,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $quarternary !important;
+  background-color: $tertiary !important;
 }
 
 // Pagination
