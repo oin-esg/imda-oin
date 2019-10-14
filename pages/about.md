@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 breadcrumb: About
 ---
+![1](/images/OIN-logo.jpg)
+
 #### Open Innovation Network
 
 The Open Innovation Network (OIN) is an initiative by ESG and IMDA to provide a single gateway to search and promote all open innovation challenges happening in Singapore. 
