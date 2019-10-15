@@ -13,8 +13,7 @@ agency-logo: /images/OIN-logo.jpg
 # Hero Banner
 hero-title: Open Innovation Network
 hero-subtitle: Gateway to Find All Innovation Challenges in Singapore
-hero-banner: /images/hero-banner.png
-
+hero-banner: /images/banner.jpg
 #Call to Action Button
 button:
   - text: Learn More
