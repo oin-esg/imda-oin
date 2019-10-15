@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 breadcrumb: About
 ---
-<img src="/images/OIN-logo.jpg" alt="1" width="450" height="300">
+<img src="/images/OIN-logo.jpg" alt="1" style="width:400px;height:300px;">
 
 #### Open Innovation Network
 
