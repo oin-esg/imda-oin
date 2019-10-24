@@ -7,7 +7,7 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Share Your Innovation Call with Us**
 
-If you'd like to publish your organisation's innovation call on the Open Innovation Network, let us know by filling up the form [here](https://form.gov.sg/5dafdae5d665e20012d3cdbf){:target=_blank}
+If you'd like to publish your organisation's innovation call on the Open Innovation Network, let us know by filling up the form [here](https://form.gov.sg/5dafdae5d665e20012d3cdbf){:target="_blank"}
 
 ### **Open for Application**
 
