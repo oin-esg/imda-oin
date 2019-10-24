@@ -1,22 +1,15 @@
 ---
 layout: simple-page
-title: Ongoing Challenges
+title: Ongoing Innovation Calls
 permalink: /ongoing-challenges/
-breadcrumb: Ongoing Challenges
+breadcrumb: Ongoing Innovation Calls
 ---
+
+### **Share Your Innovation Call with Us**
+
+If you'd like to publish your organisation's innovation call on the Open Innovation Network, let us know by filling up the form [here](https://form.gov.sg/5dafdae5d665e20012d3cdbf){:target=_blank}
+
 ### **Open for Application**
-
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/5dafaccfb9af8a0012722588">here</a>.</div>
-
- 
-
-<!-- Change the width and height values to suit you best -->
-
-<iframe id="iframe" src="https://form.gov.sg/5dafaccfb9af8a0012722588/embed"></iframe>
-
- 
-
-<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 
 #### IMDA Open Innovation Platform (OIP)<br>
 <b><i>IMDA</i></b>
