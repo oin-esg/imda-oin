@@ -6,13 +6,13 @@ breadcrumb: Ongoing Challenges
 ---
 ### **Open for Application**
 
-<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5dafaccfb9af8a0012722588">here</a>.</div>
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/5dafaccfb9af8a0012722588">here</a>.</div>
 
  
 
 <!-- Change the width and height values to suit you best -->
 
-<iframe id="iframe" src="https://form.gov.sg/5dafaccfb9af8a0012722588/embed" style="width:100%;height:500px"></iframe>
+<iframe id="iframe" src="https://form.gov.sg/5dafaccfb9af8a0012722588/embed"></iframe>
 
  
 
