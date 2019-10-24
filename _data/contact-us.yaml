@@ -23,7 +23,7 @@ locations:
  # Contact Us
 column:
   - title: General Enquiries & Feedback
-    content: https://form.gov.sg/5dafaccfb9af8a0012722588
+    content: 
     - line: oin@enterprisesg.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
