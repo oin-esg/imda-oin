@@ -27,6 +27,7 @@ STB develops and grows tourism businesses to be ready for the digital economy. T
 
 #### <b>Corporate Partners</b>
 
+
 <img src="/images/partners/IPI_MasterLogoColAW_RGB.JPG" alt="1" style="width:400px;height:243px">
 
 <h3>IPI</h3>
