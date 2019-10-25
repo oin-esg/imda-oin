@@ -25,7 +25,7 @@ This site may contain links to non-Government sites whose data protection and pr
 
 Please contact Enterprise Singapore:
 
-a.	For any enquires or feedback on our data protection policies and procedures,
+a.	For any enquires or feedback on our data protection policies and procedures,<br>
 b.	If you require more information or access to data you have already provided to us,
 
 
