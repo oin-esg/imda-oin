@@ -6,7 +6,7 @@
 
 - title: About
   url: /about/
-- title: Ongoing Challenges
+- title: Ongoing Innovation Calls
   url: /ongoing-challenges/
   sub-links:
       - title: IMDA Open Innovation Platform (OIP)
@@ -15,8 +15,8 @@
       - title: iMUSE Open Innovation Challenge
         url: https://www.imuse-innovationchallenge.com/en/challenges/imuse-innovation-challenge?lang=en
         external: true
-- title: Sector-Wide Challenges
-  url: /sector-wide-challenges/
+- title: Enterprise Singapore-IMDA Collaboration
+  url: /collaboration/
 - title: Partners
   url: /partners/
   sub-links:
