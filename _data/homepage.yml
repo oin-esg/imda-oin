@@ -30,26 +30,26 @@ info-sections:
     external: false
     section-more-button-url: /about/
     section-image-path: /images/about-oin.jpg
+
+  - section-title: 
+    section-subtitle: Enterprise Singapore-IMDA Collaboration
+    section-description:  Learn about our efforts to transform the economy through open innovation and position Singapore as an innovation node
+    section-more-button: Learn more
+    external: false
+    section-more-button-url: /collaboration/
+    section-image-path: /images/about-oin.jpg
     
   - section-title: 
-    section-subtitle: Ongoing Challenges
+    section-subtitle: Ongoing Innovation Calls
     section-description:  Search for live open innovation challenges happening in Singapore
     section-more-button: Learn more
     external: false
     section-more-button-url: /ongoing-challenges/
     section-image-path: /images/ongoing-challenges.jpg
-
-  - section-title: 
-    section-subtitle: Sector-Wide Challenges
-    section-description:  Learn more about efforts to drive industry-level innovation and digitalisation through sectoral innovation challenges
-    section-more-button: Learn more
-    external: false
-    section-more-button-url: /sector-wide-challenges/
-    section-image-path: /images/sector-wide-challenges.jpg
     
   - section-title: 
     section-subtitle: Partners
-    section-description:  Find out who our partners are in this open innovation ecosystem
+    section-description:  Find out who our partners are in Singapore's open innovation ecosystem
     section-more-button: Learn more
     external: false
     section-more-button-url: /partners/
