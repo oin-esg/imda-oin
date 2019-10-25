@@ -12,8 +12,22 @@
       - title: IMDA Open Innovation Platform (OIP)
         url: https://www.openinnovation.sg/about
         external: true
+      - title: Sustainability Open Innovation Challenge
+        url: https://sustainabilty.innovation-challenge.sg/
+        external: true
+      - title: TechInnovation Innovation Challenge
+        url: http://challenges.techinnovation.com.sg/
+      - title: ARTC Startup Challenge 2019
+        url: https://www.a-star.edu.sg/artc
+        external: true
+      - title: Aquaculture Innovation Challenge
+        url: https://www.aic-singapore.com/
+        external: true
       - title: iMUSE Open Innovation Challenge
         url: https://www.imuse-innovationchallenge.com/en/challenges/imuse-innovation-challenge?lang=en
+        external: true
+      - title: Build Environment Accelerate to Market Programme
+        url: https://www.tnb.vc/beamp
         external: true
 - title: Enterprise Singapore-IMDA Collaboration
   url: /collaboration/
