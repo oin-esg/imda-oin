@@ -37,6 +37,16 @@
       - title: Agorize
         url: https://www.agorize.com/en
         external: true
+      - title: APIX
+        url: http://www.apixplatform.com/
+        external: true
+      - title: Building & Construction Authority
+        url: http://www.sgtourismaccelerator.com
+        external: true
+      - title: HATCH Aquaculture Accelerator
+        url: http://www.hatch.blue/
+        external: true
+      - title: Innovation Enablers Network by ACE
       - title: ICMG Pte Ltd
         url: https://www.icmg.com.sg/en/#concept
         external: true
@@ -45,6 +55,9 @@
         external: true
       - title: Padang & Co
         url: http://www.padang.co
+        external: true
+      - title: Singapore Tourism Board
+        url: http://www.sgtourismaccelerator.com/
         external: true
 - title: Contact Us
   url: /contact-us/
