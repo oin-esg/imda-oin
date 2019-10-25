@@ -14,11 +14,4 @@ The OIN supports open innovation in Singapore by providing a one-stop directory 
 
 With OIN, the future of open innovation in Singapore will be more extensive, collaborative and engaged with the regional and global open innovation community.
 
----
-
-![2](/images/about/esg-imda-collaboration.jpeg)
-
-#### ESG-IMDA Collaboration
-
-Enterprise Singapore and Infocomm Media Development Authority are working together to develop a vibrant open innovation ecosystem in Singapore. Enterprise Singapore is the agency championing enterprise development from startups to SMEs and high-growth companies across all industry sectors. Infocomm Media Development Authority is the agency driving Singapore’s digital transformation and promoting the adoption of infocomm technology as a key enabler to enhance Singapore’s competitiveness. This collaboration leverages the strengths of both agencies to bridge the demand and supply channels of the innovation ecosystem, drive sectoral innovation and digitalisation, and position Singapore as a regional node for open innovation.
 
