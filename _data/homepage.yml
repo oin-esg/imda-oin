@@ -63,3 +63,8 @@ info-sections:
     section-more-button-url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
     section-image-path: /images/share your call.JPG
     
+# Resources Section 
+resources-subtitle: Latest News
+resources-title: Stay updated on the latests Open Innovation happenings
+resources-more-button: Learn more
+resources-more-button-url: /resource-room/
