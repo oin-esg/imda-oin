@@ -45,7 +45,7 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /ongoing-challenges/
-    section-image-path: /images/ongoing-challenges.jpg
+    section-image-path: /images/Ongoing Innovation calls.jpg
     
   - section-title: 
     section-subtitle: Partners
@@ -55,6 +55,11 @@ info-sections:
     section-more-button-url: /partners/
     section-image-path: /images/partners.jpg
     
- --- 
-desc: "If you'd like to publish your organisation's innovation call on the Open Innovation Network, let us know by filling up the form here"
-
+   - section-title: 
+    section-subtitle: Share Your Innovation Call with Us
+    section-description:  Publish your innovation call on the Open Innovation Network
+    section-more-button: Share with Us
+    external: true
+    section-more-button-url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
+    section-image-path: /images/share your call.JPG
+    
