@@ -41,7 +41,7 @@ info-sections:
     
   - section-title: 
     section-subtitle: Ongoing Innovation Calls
-    section-description:  Search for live open innovation calls happening in Singapore
+    section-description: Search for live open innovation calls happening in Singapore
     section-more-button: Learn more
     external: false
     section-more-button-url: /ongoing-challenges/
@@ -49,7 +49,7 @@ info-sections:
     
   - section-title: 
     section-subtitle: Partners
-    section-description:  Find out who our partners are in Singapore's open innovation ecosystem
+    section-description: Find out who our partners are in Singapore's open innovation ecosystem
     section-more-button: Learn more
     external: false
     section-more-button-url: /partners/
@@ -57,7 +57,7 @@ info-sections:
     
    - section-title: 
     section-subtitle: Share Your Innovation Call with Us
-    section-description:  Publish your innovation call on the Open Innovation Network
+    section-description: Publish your innovation call on the Open Innovation Network
     section-more-button: Share with Us
     external: true
     section-more-button-url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
