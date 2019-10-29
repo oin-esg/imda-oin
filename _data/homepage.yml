@@ -29,7 +29,7 @@ info-sections:
     section-more-button: Find out more
     external: false
     section-more-button-url: /about/
-    section-image-path: /images/about-oin.jpg
+    section-image-path: /images/About.jpg
 
   - section-title: 
     section-subtitle: Enterprise Singapore-IMDA Collaboration
