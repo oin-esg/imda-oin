@@ -5,10 +5,6 @@ permalink: /ongoing-challenges/
 breadcrumb: Ongoing Innovation Calls
 ---
 
-### **Share Your Innovation Call with Us**
-
-If you'd like to publish your organisation's innovation call on the Open Innovation Network, let us know by filling up the form [here](https://form.gov.sg/5dafdae5d665e20012d3cdbf){:target="_blank"}
-
 ### **Open for Application**
 
 #### IMDA Open Innovation Platform (OIP)<br>
@@ -16,7 +12,7 @@ If you'd like to publish your organisation's innovation call on the Open Innovat
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
 **Application Open Dates: 13 Nov 2019 to 14 Feb 2020**<br>
-<b><i>Infocomm Media Development Authority</i></b>
+<b>Infocomm Media Development Authority</b>
 
 IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. The platform accelerates sectoral digital transformation and expands innovation capacity in Singapore. Industry-wide problem statements are now hosted on the OIP.
 
@@ -27,7 +23,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
 
 **Application Open Dates: 11 Nov 2019 to 14 Feb 2020**<br>
-<b><i>Enterprise Singapore</i></b>
+<b>Enterprise Singapore</b>
 
 The Sustainability Open Innovation Challenge brings together industry partners, government agencies and innovators to drive sustainability innovation in Singapore. Enterprise Singapore is inviting all local and foreign startups and SMEs to join the challenge and to develop new technologies or solutions for key sustainability problems.
 
@@ -38,29 +34,40 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 ![3](/images/ongoing-challenges/Techinnovation Logo.png)
 
 **Application Open Dates: 11 Nov 2019 and on (To be updated)**<br>
-<b><i>IPI</i></b>
+<b>IPI</b>
 
 TechInnovation is a premier technology-industry open innovation event organised by IPI. It brings together international and Singapore technology providers and seekers to explore technology and business collaboration opportunities.
 
 [Learn more](http://challenges.techinnovation.com.sg/){:target="_blank"}
 
-#### ARTC Startup Challenge 2019
+#### ARTC Startup Challenge 2020
 
-![4](/images/ongoing-challenges/AStar Startup.PNG)
+![4](/images/ongoing-challenges/ARTC_Startup_Challenge_logo.png)
 
 **Application Open Dates: 11 Nov 2019 to 6 Jan 2020**<br>
-<b><i>ARTC</i></b>
+<b>ARTC</b>
 
-The ARTC Startup Challenge is a competition that aims to harness artificial intelligence technologies and crowdsource digitalisation ideas from the startup ecosystem to transform the manufacturing industry.
+The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness artificial intelligence technologies and crowdsource digitalisation ideas from the startup ecosystem to transform the manufacturing industry.
 
 [Learn more](https://www.a-star.edu.sg/artc){:target="_blank"}
+
+#### F&B Tech Reboot
+
+![4](/images/ongoing-challenges/F&B Tech Reboot Challenge Banner.jpeg)
+
+**Application Open Dates: 6 Nov 2019 - 10 Jan 2020**<br>
+<b>Restaurant Association of Singapore (RAS)</b>
+
+ESG is working with the RAS to launch “F&B Tech Reboot 2019”, an innovation call to seek solutions that integrate software with open APIs to encourage digital interoperability in the F&B industry
+
+[Learn more](https://www.fnbtechreboot.sg/){:target="_blank"}
 
 #### Aquaculture Innovation Challenge
 
 ![5](/images/ongoing-challenges/Aquaculture Innov Challenge.jpg)
 
 **Application Open Dates: 20 Sep 2019 to 31 Jan 2020**<br>
-<b><i>HATCH</i></b>
+<b>HATCH</b>
 
 The Aquaculture Innovation Challenge brings together industry partners, universities, government agencies and innovators to find technology solutions for key aquaculture problems. It aims to catapult Singapore to the forefront of tropical aquaculture innovation.
 
@@ -72,7 +79,7 @@ The Aquaculture Innovation Challenge brings together industry partners, universi
 ![6](/images/ongoing-challenges/iMuse Open Innov Challenge.png)
 
 **Application Open Dates: 18 Sep 2019 to 22 Nov 2019**<br>
-<b><i>Kirin</i></b>
+<b>Kirin</b>
 
 Kirin is giving the opportunity to young talents and companies in Singapore to develop a new business model that will launch Kirin’s new immunology technology, iMUSE, into Southeast Asia.
 
@@ -84,7 +91,7 @@ Kirin is giving the opportunity to young talents and companies in Singapore to d
 
 **Application Open Dates: 5 Sep 2019 to 13 Dec 2019**<br>
 
-<b><i>Building and Construction Authority(BCA)</i></b>
+<b>Building and Construction Authority(BCA)</b>
 
 BCA, in partnership with JTC and Enterprise Singapore, has launched BEAMP to develop a vibrant ecosystem of innovators for the Built Environment sector. BEAMP provides the platform to encourage collaboration between industry stakeholders and innovators to solve key challenges through accelerated development.
 
