@@ -48,7 +48,7 @@ Action Community for Entrepreneurship (ACE) is a national private sector-led org
 
 ---
 
-<img src="/images/partners/APIX logo.JPG" alt="1" style="width:350px;height:353px">
+<img src="/images/partners/APIX logo.JPG" alt="1" style="width:262px;height:265px">
 
 <h3>APIX</h3>
 
