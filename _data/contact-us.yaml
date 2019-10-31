@@ -7,7 +7,7 @@
 #Contact Us
 
 locations:
-  # Enterprise Singapore Address [REQUIRED]
+  # HQ Address [REQUIRED]
   - title:
     address: 1 Fusionopolis Walk <br>#01-02 South Tower, Solaris <br>Singapore 138649<br><br> 230 Victoria Street <br>#10-00 Bugis Junction Office Tower<br>Singapore 188024
     find-directions: https://www.google.com/maps/place/1+Fusionopolis+Walk,+01+Solaris,+Singapore+138628/@1.2979626,103.7879226,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4f70d14829:0x9ec08b4efee4305b!8m2!3d1.2979572!4d103.7901166
