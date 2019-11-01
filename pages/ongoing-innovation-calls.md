@@ -12,7 +12,7 @@ breadcrumb: Ongoing Innovation Calls
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
 **Application Open Dates: 13 Nov 2019 to 14 Feb 2020**<br>
-<font color="#a9a9a9"><b>Infocomm Media Development Authority(IMDA)</b></font>
+<font color="#a9a9a9"><b>Infocomm Media Development Authority (IMDA)</b></font>
 
 IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. The platform accelerates sectoral digital transformation and expands innovation capacity in Singapore. Industry-wide problem statements are now hosted on the OIP.
 
