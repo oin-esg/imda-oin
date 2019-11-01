@@ -7,19 +7,19 @@ breadcrumb: Partners
                                                                                   
 #### <b>Agencies</b>
 
-<img src="/images/partners/BCA Logo 1.jpg" alt="1" style="width:450px;height:414px">
+<img src="/images/partners/BCA Logo 1.jpg" alt="1" style="width:338px;height:311px">
 
 <h3>Building & Construction Authority (BCA)</h3>
 
 BCA’s mission is to shape a safe, high quality, sustainable and friendly built environment. BCA works closely with industry partners to develop expertise and co-innovate technologies that help shape a future-ready Built Environment for Singapore.
 
-[Learn more](http://www.sgtourismaccelerator.com/){:target="_blank"}
+[Learn more](https://www.bca.gov.sg){:target="_blank"}
 
 ---
 
-<img src="/images/partners/STB logo high res.png" alt="1" style="width:450px;height:351px">
+<img src="/images/partners/STB logo high res.png" alt="1" style="width:338px;height:263px">
 
-<h3>Singapore Tourism Board (STB</h3>
+<h3>Singapore Tourism Board (STB)</h3>
 
 STB develops and grows tourism businesses to be ready for the digital economy. To do so, STB actively engages partners in the innovation ecosystem to identify and leverage relevant solutions to maximise opportunities for the sector.
 
@@ -28,11 +28,11 @@ STB develops and grows tourism businesses to be ready for the digital economy. T
 #### <b>Corporate Partners</b>
 
 
-<img src="/images/partners/IPI_MasterLogoColAW_RGB.JPG" alt="1" style="width:400px;height:243px">
+<img src="/images/partners/IPI_MasterLogoColAW_RGB.JPG" alt="1" style="width:300px;height:182px">
 
 <h3>IPI</h3>
 
-IPI is an open innovation platform for enterprises seeking collaboration with external partners to co-create or accelerate the launch of new products and services with innovative technologies.
+IPI is an affiliate of Enterprise Singapore that focuses on uncovering industry needs and translating them into innovation objectives for development of enterprises’ capabilities.
 
 [Learn more](https://www.ipi-singapore.org){:target="_blank"}
 
