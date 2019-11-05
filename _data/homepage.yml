@@ -15,7 +15,7 @@ google-analytics: UA-103556192-2
 # Hero Banner
 hero-title: Open Innovation Network
 hero-subtitle: Gateway to find all innovation challenges in Singapore
-hero-banner: /images/banner.jpg
+hero-banner: /images/Main banner_share-your-innovation-calls-051119.jpg
 #Call to Action Button
 button:
   - text: Learn More
@@ -29,7 +29,7 @@ info-sections:
     section-more-button: Find out more
     external: false
     section-more-button-url: /about/
-    section-image-path: /images/About copy.jpg
+    section-image-path: /images/about-oin-051119.jpg
 
   - section-title: 
     section-subtitle: Enterprise Singapore-IMDA Collaboration
@@ -37,7 +37,7 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /collaboration/
-    section-image-path: /images/about-oin.jpg
+    section-image-path: /images/collaboration-051119.jpg
     
   - section-title: 
     section-subtitle: Ongoing Innovation Calls
@@ -45,7 +45,7 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /ongoing-challenges/
-    section-image-path: /images/Ongoing Innovation calls.jpg
+    section-image-path: /images/ongoing-innovation-calls-051119.jpg
     
   - section-title: 
     section-subtitle: Partners
@@ -53,7 +53,7 @@ info-sections:
     section-more-button: Learn more
     external: false
     section-more-button-url: /partners/
-    section-image-path: /images/partners.jpg
+    section-image-path: /images/partners-051119.jpg
     
   - section-title: 
     section-subtitle: Share Your Innovation Call with Us
@@ -61,7 +61,7 @@ info-sections:
     section-more-button: Share with Us
     external: true
     section-more-button-url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
-    section-image-path: /images/share your call.JPG
+    section-image-path: /images/share-your-innovation-051119.jpg
     
 # Resources Section 
 resources-subtitle: Latest News
