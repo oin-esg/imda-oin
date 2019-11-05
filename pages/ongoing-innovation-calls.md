@@ -22,7 +22,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
 
-**Application Open Dates: 11 Nov 2019 to 14 Feb 2020**<br>
+**Application Open Dates: 12 Nov 2019 to 14 Feb 2020**<br>
 <font color="#a9a9a9"><b>Enterprise Singapore</b></font>
 
 The Sustainability Open Innovation Challenge brings together industry partners, government agencies and innovators to drive sustainability innovation in Singapore. Enterprise Singapore is inviting all local and foreign startups and SMEs to join the challenge and to develop new technologies or solutions for key sustainability problems.
@@ -45,7 +45,7 @@ TechInnovation is a premier technology-industry open innovation event organised 
 ![4](/images/ongoing-challenges/ARTC_Startup_Challenge_logo.png)
 
 **Application Open Dates: 11 Nov 2019 to 6 Jan 2020**<br>
-<font color=" #a9a9a9"><b>Advanaced Remanufacturing and Technology Centre (ARTC)</b></font>
+<font color=" #a9a9a9"><b>Advanced Remanufacturing and Technology Centre (ARTC)</b></font>
 
 The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness artificial intelligence technologies and crowdsource digitalisation ideas from the startup ecosystem to transform the manufacturing industry.
 
@@ -79,7 +79,7 @@ The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore
 ![6](/images/ongoing-challenges/iMuse Open Innov Challenge.png)
 
 **Application Open Dates: 18 Sep 2019 to 22 Nov 2019**<br>
-<font color=" #a9a9a9"><b>Kirin</b></font>
+<font color=" #a9a9a9"><b>ICMG</b></font>
 
 Kirin is giving the opportunity to young talents and companies in Singapore to develop a new business model that will launch Kirin’s new immunology technology, iMUSE, into Southeast Asia.
 
