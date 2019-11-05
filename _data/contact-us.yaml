@@ -9,28 +9,25 @@
 locations:
   # HQ Address [REQUIRED]
   - title:
-    address: 5 Maxwell Road<br>1st Storey Tower Block<br>MND Complex<br>Singapore 069110
-    find-directions: https://www.google.com.sg/maps/place/Board+of+Architects+(BOA)/@1.2793714,103.8439926,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1912b8578811:0x6b5e720d6eba45eb!8m2!3d1.2793714!4d103.8461813
+    address: 1 Fusionopolis Walk <br>#01-02 South Tower, Solaris <br>Singapore 138649<br><br> 230 Victoria Street <br>#10-00 Bugis Junction Office Tower<br>Singapore 188024
+    find-directions: https://www.google.com/maps/place/1+Fusionopolis+Walk,+01+Solaris,+Singapore+138628/@1.2979626,103.7879226,17z/data=!3m1!4b1!4m5!3m4!1s0x31da1a4f70d14829:0x9ec08b4efee4305b!8m2!3d1.2979572!4d103.7901166
   # Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Thu
-        time: 8.30am - 6.00pm
+        time: 8:30am - 6:00pm        
       - days: Fri
-        time: 8.30am - 5.30pm
-        description: "Closed during lunch: 12.30pm - 1.30pm <br>Closed on Weekends and Public Holidays"
+        time: 8:30am - 5:30pm
+        description: "Closed on Weekends and Public Holidays"
 
 
-# Contact Us
+ # Contact Us
 column:
   - title: General Enquiries & Feedback
-    content:
-    - line: +65 6222 5295
-    - line: boarch@singnet.com.sg (email)
+    content: 
+    - line: oin@enterprisesg.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
-  - title: Fax
-    content:
-    - line: +65 6222 4452
 
 # Image
 image-url:
+

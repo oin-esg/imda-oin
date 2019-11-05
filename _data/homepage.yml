@@ -5,35 +5,66 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/IMDA-tab.png
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/OIN-logo.jpg
+
+google-analytics: UA-103556192-2
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
-
+hero-title: Open Innovation Network
+hero-subtitle: Gateway to find all innovation challenges in Singapore
+hero-banner: /images/Main banner_share-your-innovation-calls-051119.jpg
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /about/
     
-key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: About Open Innovation Network
+    section-description:  OIN supports open innovation in Singapore by providing a one-stop directory of challenges and community partners
+    section-more-button: Find out more
+    external: false
+    section-more-button-url: /about/
+    section-image-path: /images/about-oin-051119.jpg
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+  - section-title: 
+    section-subtitle: Enterprise Singapore-IMDA Collaboration
+    section-description:  Learn about our efforts to transform the economy through open innovation and position Singapore as an innovation node
+    section-more-button: Learn more
+    external: false
+    section-more-button-url: /collaboration/
+    section-image-path: /images/collaboration-051119.jpg
+    
+  - section-title: 
+    section-subtitle: Ongoing Innovation Calls
+    section-description: Search for live open innovation calls happening in Singapore
+    section-more-button: Learn more
+    external: false
+    section-more-button-url: /ongoing-challenges/
+    section-image-path: /images/ongoing-innovation-calls-051119.jpg
+    
+  - section-title: 
+    section-subtitle: Partners
+    section-description: Find out who our partners are in Singapore's open innovation ecosystem
+    section-more-button: Learn more
+    external: false
+    section-more-button-url: /partners/
+    section-image-path: /images/partners-051119.jpg
+    
+  - section-title: 
+    section-subtitle: Share Your Innovation Call with Us
+    section-description: Publish your innovation call on the Open Innovation Network
+    section-more-button: Share with Us
+    external: true
+    section-more-button-url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
+    section-image-path: /images/share-your-innovation-051119.jpg
+    
+# Resources Section 
+resources-subtitle: Latest News
+resources-title: Stay updated on the latest Open Innovation happenings
+resources-more-button: Learn more
+resources-more-button-url: /resource-room/
