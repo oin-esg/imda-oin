@@ -15,7 +15,7 @@ google-analytics: UA-103556192-2
 # Hero Banner
 hero-title: Open Innovation Network
 hero-subtitle: Gateway to find all innovation challenges in Singapore
-hero-banner: /images/Main banner_share-your-innovation-calls-051119.jpg
+hero-banner: /images/main-banner.jpg
 #Call to Action Button
 button:
   - text: Learn More
