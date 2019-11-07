@@ -7,13 +7,14 @@ breadcrumb: Partners
                                                                                   
 #### <b>Agencies</b>
 
-<img src="/images/partners/BCA Logo 1.jpg" alt="1" style="width:338px;height:311px">
+
+<img src="/images/partners/BCA Logo (HorizontalCol) .tiff" alt="1" style="width:500px;height:170px">
 
 <h3>Building & Construction Authority (BCA)</h3>
 
-BCA’s mission is to shape a safe, high quality, sustainable and friendly built environment. BCA works closely with industry partners to develop expertise and co-innovate technologies that help shape a future-ready Built Environment for Singapore.
+BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. Together with our partners, we work towards realising our vision of an advanced and integrated built environment sector, with widespread adoption of leading technologies, led by progressive and collaborative firms, offering good jobs for Singaporeans.
 
-[Learn more](https://www.bca.gov.sg){:target="_blank"}
+[Learn more](http://www.bca.gov.sg/researchinnovation/BEAMP.html){:target="_blank"}
 
 ---
 
