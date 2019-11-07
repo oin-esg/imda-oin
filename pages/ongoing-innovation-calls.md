@@ -4,7 +4,7 @@ title: Ongoing Innovation Calls
 permalink: /ongoing-challenges/
 breadcrumb: Ongoing Innovation Calls
 ---
-
+[Sustainability Challenge](#sustain)
 ### **Open for Application**
 
 #### Open Innovation Platform<br>
@@ -29,7 +29,7 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 
 [Learn more](https://sustainabilty.innovation-challenge.sg/){:target="_blank"}
 
-
+<a name="sustain"></a>
 #### Sustainability Open Innovation Challenge
 
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
