@@ -27,7 +27,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 
 The Sustainability Open Innovation Challenge brings together industry partners, government agencies and innovators to drive sustainability innovation in Singapore. Enterprise Singapore is inviting all local and foreign startups and SMEs to join the challenge and to develop new technologies or solutions for key sustainability problems.
 
-[Learn more](https://sustainabilty.innovation-challenge.sg/){:target="_blank"}
+[Learn more](https://sustainability.innovation-challenge.sg/){:target="_blank"}
 
 #### TechInnovation Innovation Challenge
 
