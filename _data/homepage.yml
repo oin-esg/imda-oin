@@ -24,7 +24,7 @@ button:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: About Open Innovation Network
+    section-subtitle: About Open Innovation Network.
     section-description:  OIN supports open innovation in Singapore by providing a one-stop directory of challenges and community partners
     section-more-button: Find out more
     external: false
