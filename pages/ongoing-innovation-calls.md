@@ -5,6 +5,7 @@ permalink: /ongoing-challenges/
 breadcrumb: Ongoing Innovation Calls
 ---
 [Sustainability Challenge](#sustain)
+
 ### **Open for Application**
 
 #### Open Innovation Platform<br>
