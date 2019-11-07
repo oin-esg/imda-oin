@@ -4,7 +4,6 @@ title: Ongoing Innovation Calls
 permalink: /ongoing-challenges/
 breadcrumb: Ongoing Innovation Calls
 ---
-[Sustainability Challenge](#sustain)
 
 ### **Open for Application**
 
@@ -19,18 +18,6 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 
 [Learn more](https://www.openinnovation.sg/){:target="_blank"}
 
-#### Sustainability Open Innovation Challenge
-
-![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
-
-**Application Open Dates: 12 Nov 2019 to 14 Feb 2020**<br>
-<font color="#a9a9a9"><b>Enterprise Singapore</b></font>
-
-The Sustainability Open Innovation Challenge brings together industry partners, government agencies and innovators to drive sustainability innovation in Singapore. Enterprise Singapore is inviting all local and foreign startups and SMEs to join the challenge and to develop new technologies or solutions for key sustainability problems.
-
-[Learn more](https://sustainabilty.innovation-challenge.sg/){:target="_blank"}
-
-<a name="sustain"></a>
 #### Sustainability Open Innovation Challenge
 
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
