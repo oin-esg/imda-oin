@@ -47,9 +47,7 @@ TechInnovation is a premier technology-industry open innovation event organised 
 **Application Open Dates: 11 Nov 2019 to 6 Jan 2020**<br>
 <font color=" #a9a9a9"><b>Advanced Remanufacturing and Technology Centre (ARTC)</b></font>
 
-The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness artificial intelligence technologies and crowdsource digitalisation ideas from the startup ecosystem to transform the manufacturing industry.
-
-[Learn more](https://www.a-star.edu.sg/artc/sc2020){:target="_blank"}
+The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness artificial intelligence technologies and crowdsource digitalisation ideas from the startup ecosystem to transform the manufacturing industry (Link will be available soon).
 
 #### F&B Tech Reboot
 
