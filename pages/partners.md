@@ -8,7 +8,7 @@ breadcrumb: Partners
 #### <b>Agencies</b>
 
 
-<img src="/images/partners/BCA.png" alt="1" style="width:500px;height:170px">
+<img src="/images/partners/BCALogoHorizontal.jpg" alt="1" style="width:500px;height:150px">
 
 <h3>Building & Construction Authority (BCA)</h3>
 
