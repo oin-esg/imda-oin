@@ -40,6 +40,17 @@ TechInnovation is a premier technology-industry open innovation event organised 
 
 [Learn more](http://challenges.techinnovation.com.sg/){:target="_blank"}
 
+#### Cultiv@te – Innovation for Sustainable Agriculture 
+
+![3](/images/ongoing-challenges/undp_cultivate_oin.jpg)
+
+**Application Open Dates: 11 Nov 2019 to 14 Feb 2020**<br>
+<font color=" #a9a9a9"><b>United Nations Development Programme </b></font>
+
+Cultiv@te brings together a global coalition of partners and stakeholders that want to bring innovation and technology where it is most needed, combining globally-leading innovation with local knowledge, expertise and market insights.
+
+[Learn more](https://www.agorize.com/en/challenges/undp-cultivate){:target="_blank"}
+
 #### ARTC Startup Challenge 2020
 
 ![4](/images/ongoing-challenges/ARTC_Startup_Challenge_logo.png)
