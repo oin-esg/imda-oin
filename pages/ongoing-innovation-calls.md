@@ -45,9 +45,9 @@ TechInnovation is a premier technology-industry open innovation event organised 
 ![3](/images/ongoing-challenges/undp_cultivate_oin.jpg)
 
 **Application Open Dates: 11 Nov 2019 to 14 Feb 2020**<br>
-<font color=" #a9a9a9"><b>United Nations Development Programme </b></font>
+<font color=" #a9a9a9"><b>United Nations Development Programme (UNDP) </b></font>
 
-Cultiv@te brings together a global coalition of partners and stakeholders that want to bring innovation and technology where it is most needed, combining globally-leading innovation with local knowledge, expertise and market insights.
+UNDP Cultiv@te brings together a global coalition of partners and stakeholders that want to bring innovation and technology where it is most needed, combining globally-leading innovation with local knowledge, expertise and market insights.
 
 [Learn more](https://www.agorize.com/en/challenges/undp-cultivate){:target="_blank"}
 
