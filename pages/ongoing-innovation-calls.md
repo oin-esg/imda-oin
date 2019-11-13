@@ -87,7 +87,7 @@ The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore
 
 #### iMUSE Open Innovation Challenge
 
-![6](/images/ongoing-challenges/iMuse Open Innov Challenge.png)
+![6](/images/ongoing-challenges/iMUSE_Banner_1380x700 with co-organizers.png)
 
 **Application Open Dates: 18 Sep 2019 to 22 Nov 2019**<br>
 <font color=" #a9a9a9"><b>ICMG</b></font>
