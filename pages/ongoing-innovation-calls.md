@@ -9,6 +9,8 @@ breadcrumb: Ongoing Innovation Calls
 
 #### Open Innovation Platform<br>
 
+<font color="#a9a9a9"><b>Challenge Owners: test</b></font>
+
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
 **Application Open Dates: 13 Nov 2019 to 14 Feb 2020**<br>
