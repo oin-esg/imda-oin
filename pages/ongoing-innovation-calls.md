@@ -89,7 +89,7 @@ The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore
 
 #### iMUSE Open Innovation Challenge
 
-<font color="#000000"><b>Challenge Owners: Kirin Company</b></font>
+**Challenge Owner(s): Kirin Company**<br>
 
 ![6](/images/ongoing-challenges/iMUSE_Banner_1380x700 with co-organizers.png)
 
