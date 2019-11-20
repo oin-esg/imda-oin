@@ -9,7 +9,7 @@ breadcrumb: Ongoing Innovation Calls
 
 #### Open Innovation Platform<br>
 
-**Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, UOB, Suntec**<br>
+**Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB)**<br>
 
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
