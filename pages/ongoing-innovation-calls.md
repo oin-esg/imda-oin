@@ -9,7 +9,7 @@ breadcrumb: Ongoing Innovation Calls
 
 #### Open Innovation Platform<br>
 
-<font color="#000000"><b>Challenge Owners: test</b></font>
+**Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, UOB, Suntec**<br>
 
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
@@ -22,6 +22,8 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 
 #### Sustainability Open Innovation Challenge
 
+**Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board, JTC Corporation, National Environment Agency, Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group**<br>
+
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
 
 **Application Open Dates: 12 Nov 2019 to 14 Feb 2020**<br>
@@ -33,9 +35,11 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 
 #### TechInnovation Innovation Challenge
 
+**Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group, Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore**<br>
+
 ![3](/images/ongoing-challenges/Techinnovation Logo.png)
 
-**Application Open Dates: 11 Nov 2019 to 31 Mar 2019**<br>
+**Application Open Dates: 11 Nov 2019 to 31 Mar 2020**<br>
 <font color=" #a9a9a9"><b>Intellectual Property Intermediary (IPI)</b></font>
 
 TechInnovation is a premier technology-industry open innovation event organised by IPI. It brings together international and Singapore technology providers and seekers to explore technology and business collaboration opportunities.
@@ -43,6 +47,8 @@ TechInnovation is a premier technology-industry open innovation event organised 
 [Learn more](http://challenges.techinnovation.com.sg/){:target="_blank"}
 
 #### Cultiv@te – Innovation for Sustainable Agriculture 
+
+**Challenge Owner(s): UNDP Offices in Armenia, Bhutan, Djibouti, Ecuador, Ethiopia, Gabon, Indonesia, Kenya, Philippines, Singapore, Sudan, Uruguay, Uzbekistan**<br>
 
 ![3](/images/ongoing-challenges/undp_cultivate_oin.jpg)
 
@@ -55,6 +61,8 @@ UNDP Cultiv@te brings together a global coalition of partners and stakeholders t
 
 #### ARTC Startup Challenge 2020
 
+**Challenge Owner(s): Advanced Remanufacturing and Technology Centre (ARTC)**<br>
+
 ![4](/images/ongoing-challenges/ARTC_Startup_Challenge_logo.png)
 
 **Application Open Dates: 11 Nov 2019 to 6 Jan 2020**<br>
@@ -66,6 +74,8 @@ The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness 
 
 #### F&B Tech Reboot
 
+**Challenge Owner(s): Restaurant Association of Singapore (RAS)**<br>
+
 ![4](/images/ongoing-challenges/F&B Tech Reboot Challenge Banner.jpeg)
 
 **Application Open Dates: 6 Nov 2019 - 10 Jan 2020**<br>
@@ -76,6 +86,8 @@ Enterprise Singapore is working with the RAS to launch “F&B Tech Reboot 2019�
 [Learn more](https://www.fnbtechreboot.sg/){:target="_blank"}
 
 #### Aquaculture Innovation Challenge
+
+**Challenge Owner(s): HATCH**<br>
 
 ![5](/images/ongoing-challenges/Aquaculture Innov Challenge.jpg)
 
@@ -102,9 +114,13 @@ Kirin is giving the opportunity to young talents and companies in Singapore to d
 
 #### Build Environment Accelerate to Market Programme (BEAMP)
 
+**Challenge Owner(s): Kirin Company**<br>
+
 ![7](/images/ongoing-challenges/BEAMP.PNG)
 
 **Application Open Dates: 5 Sep 2019 to 13 Dec 2019**<br>
+
+**Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board, JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction**<br>
 
 <font color=" #a9a9a9"><b>Building and Construction Authority (BCA)</b></font>
 
