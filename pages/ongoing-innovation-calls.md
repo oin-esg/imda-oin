@@ -22,7 +22,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 
 #### Sustainability Open Innovation Challenge
 
-**Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board, JTC Corporation, National Environment Agency, Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group**<br>
+**Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board (HDB), JTC Corporation, National Environment Agency (NEA), Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group**<br>
 
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
 
@@ -35,7 +35,7 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 
 #### TechInnovation Innovation Challenge
 
-**Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group, Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore**<br>
+**Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore**<br>
 
 ![3](/images/ongoing-challenges/Techinnovation Logo.png)
 
@@ -114,14 +114,11 @@ Kirin is giving the opportunity to young talents and companies in Singapore to d
 
 #### Build Environment Accelerate to Market Programme (BEAMP)
 
-**Challenge Owner(s): Kirin Company**<br>
+**Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board (HDB), JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction**<br>
 
 ![7](/images/ongoing-challenges/BEAMP.PNG)
 
 **Application Open Dates: 5 Sep 2019 to 13 Dec 2019**<br>
-
-**Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board, JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction**<br>
-
 <font color=" #a9a9a9"><b>Building and Construction Authority (BCA)</b></font>
 
 BCA, in partnership with JTC and Enterprise Singapore, has launched BEAMP to develop a vibrant ecosystem of innovators for the Built Environment sector. BEAMP provides the platform to encourage collaboration between industry stakeholders and innovators to solve key challenges through accelerated development.
