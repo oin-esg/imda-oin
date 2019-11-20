@@ -9,7 +9,7 @@ breadcrumb: Ongoing Innovation Calls
 
 #### Open Innovation Platform<br>
 
-<font color="#a9a9a9"><b>Challenge Owners: test</b></font>
+<font color="#000000"><b>Challenge Owners: test</b></font>
 
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
@@ -88,6 +88,8 @@ The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore
 
 
 #### iMUSE Open Innovation Challenge
+
+<font color="#000000"><b>Challenge Owners: Kirin Company</b></font>
 
 ![6](/images/ongoing-challenges/iMUSE_Banner_1380x700 with co-organizers.png)
 
