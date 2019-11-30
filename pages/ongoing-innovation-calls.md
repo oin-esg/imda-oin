@@ -47,7 +47,7 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 [Learn more](https://sustainability.innovation-challenge.sg/){:target="_blank"}
 
 #### TechInnovation Innovation Challenge
-IPHatch® is an open-innovation challenge looking for enthusiastic startups and entrepreneurs that ambitiously want to scale their businesses to greater heights by incorporating the use of intellectual property and technology portfolios from renowned companies.
+
 **Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore**<br>
 
 ![3](/images/ongoing-challenges/Techinnovation Logo.png)
