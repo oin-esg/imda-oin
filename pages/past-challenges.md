@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Past Innovation Calls
-permalink: Ongoing Innovation Calls/past-challenges/
-breadcrumb: Ongoing Innovation Calls
+permalink: pages/past-innovation-calls/
+collection_name:left-nav-one
+\\breadcrumb: Ongoing Innovation Calls
 ---
 
 ### **Application Closed**
