@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Past Innovation Calls
-permalink: /past-challenges/
+permalink: /Ongoing Innovation Calls/past-challenges/
 breadcrumb: Ongoing Innovation Calls
 ---
 
