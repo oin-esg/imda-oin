@@ -2,7 +2,7 @@
 layout: simple-page
 title: Past Innovation Calls
 permalink: /past-challenges/
-breadcrumb: Past Innovation Calls
+breadcrumb: Ongoing Innovation Calls
 ---
 
 ### **Application Closed**
