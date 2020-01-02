@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: simple-page
 title: Past Innovation Calls
 permalink: /pages/past-challenges/
+breadcrumb: Ongoing Innovation Calls
 ---
 
 ### **Application Closed**
