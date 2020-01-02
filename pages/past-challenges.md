@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Past Innovation Calls
-permalink: /ongoing-challenges/past-challenges/
+permalink: /pages/past-challenges
 breadcrumb: Ongoing Innovation Calls
 collection_name: Ongoing-Innovation-Calls
 second_nav_title: "Past Challenges"
