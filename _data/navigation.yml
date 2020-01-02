@@ -10,6 +10,9 @@
   url: /collaboration/
 - title: Ongoing Innovation Calls
   url: /ongoing-challenges/
+  sub-links: 
+  - title: Past Innovation Calls
+    url: /pages/past-challenges/
 - title: Partners
   url: /partners/
 - title: Share Your Innovation Call
