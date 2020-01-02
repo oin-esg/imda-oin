@@ -3,7 +3,7 @@ layout: simple-page
 title: Past Innovation Calls
 permalink: /ongoing-challenges/past-challenges/
 breadcrumb: Ongoing Innovation Calls
-collection_name: Ongoing Innovation Calls
+collection_name: Ongoing-Innovation-Calls
 ---
 
 ### **Application Closed**
