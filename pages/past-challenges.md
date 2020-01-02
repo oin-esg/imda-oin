@@ -1,5 +1,5 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Past Innovation Calls
 permalink: /ongoing-challenges/past-challenges/
 breadcrumb: Ongoing Innovation Calls
