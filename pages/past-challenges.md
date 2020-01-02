@@ -1,8 +1,7 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Past Innovation Calls
-permalink: pages/past-innovation-calls/
-collection_name:left-nav-one
+permalink: /ongoing-challenges/past-challenges
 breadcrumb: Ongoing Innovation Calls
 ---
 
