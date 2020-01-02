@@ -1,10 +1,7 @@
 ---
-layout: leftnav-page-content
+layout: post
 title: Past Innovation Calls
 permalink: /pages/past-challenges/
-breadcrumb: Ongoing Innovation Calls
-collection_name: Ongoing-Innovation-Calls
-second_nav_title: "Past Challenges"
 ---
 
 ### **Application Closed**
