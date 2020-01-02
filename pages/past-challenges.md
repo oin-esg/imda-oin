@@ -8,7 +8,7 @@ permalink: /pages/past-challenges/
 
 #### Build Environment Accelerate to Market Programme (BEAMP)
 
-**Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board (HDB), JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction**<br>
+<font color=" #a9a9a9"><b>Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board (HDB), JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction</b></font>
 
 ![7](/images/ongoing-challenges/BEAMP.PNG)
 
@@ -21,7 +21,7 @@ BCA, in partnership with JTC and Enterprise Singapore, has launched BEAMP to dev
 
 #### iMUSE Open Innovation Challenge
 
-**Challenge Owner(s): Kirin Company**<br>
+<font color=" #a9a9a9"><b>Challenge Owner(s): Kirin Company</b></font>
 
 ![6](/images/ongoing-challenges/iMUSE_Banner_1380x700 with co-organizers.png)
 
@@ -31,7 +31,6 @@ BCA, in partnership with JTC and Enterprise Singapore, has launched BEAMP to dev
 Kirin is giving the opportunity to young talents and companies in Singapore to develop a new business model that will launch Kirin’s new immunology technology, iMUSE, into Southeast Asia.
 
 [Learn more](https://www.imuse-innovationchallenge.com/en/challenges/imuse-innovation-challenge?lang=en){:target="_blank"}
-
 
 
 
