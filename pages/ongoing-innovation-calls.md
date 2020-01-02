@@ -9,7 +9,7 @@ breadcrumb: Ongoing Innovation Calls
 
 #### IPHatch<br>
 
-**Challenge Owner(s): Nokia and Panasonic**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): Nokia and Panasonic</b></font>
 
 ![1](/images/ongoing-challenges/IPHatchSG 2019 Banner_for IPI.jpg)
 
@@ -22,7 +22,7 @@ IPHatch® is an open-innovation challenge looking for enthusiastic startups and 
 
 #### Open Innovation Platform<br>
 
-**Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB)**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB)</b></font>
 
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
@@ -35,7 +35,7 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 
 #### Sustainability Open Innovation Challenge
 
-**Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board (HDB), JTC Corporation, National Environment Agency (NEA), Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board (HDB), JTC Corporation, National Environment Agency (NEA), Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group</b></font>
 
 ![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
 
@@ -48,7 +48,7 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 
 #### TechInnovation Innovation Challenge
 
-**Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore</b></font>
 
 ![3](/images/ongoing-challenges/Techinnovation Logo.png)
 
@@ -61,7 +61,7 @@ TechInnovation is a premier technology-industry open innovation event organised 
 
 #### Cultiv@te – Innovation for Sustainable Agriculture 
 
-**Challenge Owner(s): UNDP Offices in Armenia, Bhutan, Djibouti, Ecuador, Ethiopia, Gabon, Indonesia, Kenya, Philippines, Singapore, Sudan, Uruguay, Uzbekistan**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): UNDP Offices in Armenia, Bhutan, Djibouti, Ecuador, Ethiopia, Gabon, Indonesia, Kenya, Philippines, Singapore, Sudan, Uruguay, Uzbekistan</b></font>
 
 ![3](/images/ongoing-challenges/undp_cultivate_oin.jpg)
 
@@ -74,7 +74,7 @@ UNDP Cultiv@te brings together a global coalition of partners and stakeholders t
 
 #### ARTC Startup Challenge 2020
 
-**Challenge Owner(s): Advanced Remanufacturing and Technology Centre (ARTC)**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): Advanced Remanufacturing and Technology Centre (ARTC)</b></font>
 
 ![4](/images/ongoing-challenges/ARTC_Startup_Challenge_logo.png)
 
@@ -87,7 +87,7 @@ The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness 
 
 #### F&B Tech Reboot
 
-**Challenge Owner(s): Restaurant Association of Singapore (RAS)**<br>
+<font color="#a9a9a9"><b>Challenge Owner(s): Restaurant Association of Singapore (RAS)</b></font>
 
 ![4](/images/ongoing-challenges/F&B Tech Reboot Challenge Banner.jpeg)
 
@@ -100,7 +100,7 @@ Enterprise Singapore is working with the RAS to launch “F&B Tech Reboot 2019�
 
 #### Aquaculture Innovation Challenge
 
-**Challenge Owner(s): HATCH**<br>
+<font color=" #a9a9a9"><b>Challenge Owner(s): HATCH</b></font>
 
 ![5](/images/ongoing-challenges/Aquaculture Innov Challenge.jpg)
 
@@ -114,7 +114,7 @@ The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore
 
 #### iMUSE Open Innovation Challenge
 
-**Challenge Owner(s): Kirin Company**<br>
+<font color=" #a9a9a9"><b>Challenge Owner(s): Kirin Company</b></font>
 
 ![6](/images/ongoing-challenges/iMUSE_Banner_1380x700 with co-organizers.png)
 
@@ -127,7 +127,7 @@ Kirin is giving the opportunity to young talents and companies in Singapore to d
 
 #### Build Environment Accelerate to Market Programme (BEAMP)
 
-**Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board (HDB), JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction**<br>
+<font color=" #a9a9a9"><b>Challenge Owner(s): Admaterials Technologies, Boustead Projects, Capitaland, City Development Limited, DP Architects, Dragages Singapore, EM Services, Excel, Exceltec, Facebook, Fortis Construction, Frasers Property, Housing & Development Board (HDB), JTC Corporation, Keppel Land, Keong Hong, Kimly Construction, New Soil, Ong & Ong, Pan United, P&T Consultants, Samwoh, Siri Ventures, Surbana Jurong, Squire Mech, Soil Build, Straits Construction, Sunray, Teambuild Building Aspirations, Tiong Seng Construction</b></font>
 
 ![7](/images/ongoing-challenges/BEAMP.PNG)
 
