@@ -7,6 +7,19 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
+#### Plastic Data Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): The Circulate Initiative, SecondMuse</b></font>
+
+![1](/images/PDC-Post-2_Call-for-Applications_LI.jpg)
+
+**Application Open Dates: 19 Dec 2019 to 13 Mar 2020**<br>
+<font color="#a9a9a9"><b>The Incubation Network</b></font>
+
+The Plastics Data Challenge by the Incubation Network is a global innovation challenge to end ocean plastic pollution. The challenge will source, support, and scale innovative solutions, methodologies and working prototypes that create and leverage data to address the leakage of plastic waste into the environment and to facilitate the entry of these solutions into markets across South and Southeast Asia.
+
+[Learn more](https://www.incubationnetwork.com/plastics-data-challenge/){:target="_blank"}
+
 #### IPHatch<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Nokia and Panasonic</b></font>
@@ -20,19 +33,6 @@ IPHatch® is an open-innovation challenge looking for enthusiastic startups and 
 
 [Learn more](https://www.iphatchday.com/){:target="_blank"}
 
-#### Open Innovation Platform<br>
-
-<font color="#a9a9a9"><b>Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB)</b></font>
-
-![1](/images/ongoing-challenges/IMDA OIP.jpg)
-
-**Application Open Dates: 13 Nov 2019 to 14 Feb 2020**<br>
-<font color="#a9a9a9"><b>Infocomm Media Development Authority (IMDA)</b></font>
-
-IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. The platform accelerates sectoral digital transformation and expands innovation capacity in Singapore. Industry-wide problem statements are now hosted on the OIP.
-
-[Learn more](https://www.openinnovation.sg/){:target="_blank"}
-
 #### Sustainability Open Innovation Challenge
 
 <font color="#a9a9a9"><b>Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board (HDB), JTC Corporation, National Environment Agency (NEA), Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group</b></font>
@@ -45,6 +45,19 @@ IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform tha
 The Sustainability Open Innovation Challenge brings together industry partners, government agencies and innovators to drive sustainability innovation in Singapore. Enterprise Singapore is inviting all local and foreign startups and SMEs to join the challenge and to develop new technologies or solutions for key sustainability problems.
 
 [Learn more](https://sustainability.innovation-challenge.sg/){:target="_blank"}
+
+#### Open Innovation Platform<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB)</b></font>
+
+![1](/images/ongoing-challenges/IMDA OIP.jpg)
+
+**Application Open Dates: 13 Nov 2019 to 14 Feb 2020**<br>
+<font color="#a9a9a9"><b>Infocomm Media Development Authority (IMDA)</b></font>
+
+IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. The platform accelerates sectoral digital transformation and expands innovation capacity in Singapore. Industry-wide problem statements are now hosted on the OIP.
+
+[Learn more](https://www.openinnovation.sg/){:target="_blank"}
 
 #### TechInnovation Innovation Challenge
 
