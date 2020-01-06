@@ -7,7 +7,7 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
-#### Plastic Data Challenge<br>
+#### Plastics Data Challenge<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): The Circulate Initiative, SecondMuse</b></font>
 
