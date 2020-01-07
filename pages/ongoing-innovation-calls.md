@@ -18,7 +18,7 @@ breadcrumb: Ongoing Innovation Calls
 
 The Plastics Data Challenge by the Incubation Network is a global innovation challenge to end ocean plastic pollution. The challenge will source, support, and scale innovative solutions, methodologies and working prototypes that create and leverage data to address the leakage of plastic waste into the environment and to facilitate the entry of these solutions into markets across South and Southeast Asia.
 
-[Learn more](https://www.incubationnetwork.com/plastics-data-challenge/){:target="_blank"}
+[Learn more](https://www.agorize.com/en/challenges/plastics-data-challenge/){:target="_blank"}
 
 #### IPHatch<br>
 
