@@ -11,7 +11,7 @@ breadcrumb: Ongoing Innovation Calls
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Enterprise Singapore</b></font>
 
-![1](/images/Intelligent Web Crawler Logo.jpg)
+![1](/images/Webcrawler Challenge Logo.png)
 
 **Application Open Dates: 8 Jan 2020 to 28 Feb 2020**<br>
 <font color="#a9a9a9"><b>Enterprise Singapore</b></font>
