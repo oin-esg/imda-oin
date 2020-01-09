@@ -7,7 +7,7 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
-#### Intelligent Web Crawler Innovation Challenge<br>
+#### Intelligent Web Crawler Challenge<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Enterprise Singapore</b></font>
 
