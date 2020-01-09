@@ -7,6 +7,19 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
+#### Intelligent Web Crawler Innovation Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Enterprise Singapore</b></font>
+
+![1](/images/Intelligent Web Crawler Logo.jpg)
+
+**Application Open Dates: 8 Jan 2020 to 28 Feb 2020**<br>
+<font color="#a9a9a9"><b>Enterprise Singapore</b></font>
+
+Enterprise Singapore will like to explore opportunities to harness innovative technologies to automate the web data collection and curation for the Startup SG Network.
+
+[Learn more](https://gov-pact.ipi-singapore.org/grant-call/enterprise-singapore-innovation-call-seek-solutions-intelligent-web-crawler){:target="_blank"}
+
 #### Plastics Data Challenge<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): The Circulate Initiative, SecondMuse</b></font>
