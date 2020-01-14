@@ -98,32 +98,6 @@ UNDP Cultiv@te brings together a global coalition of partners and stakeholders t
 
 [Learn more](https://www.agorize.com/en/challenges/undp-cultivate){:target="_blank"}
 
-#### ARTC Startup Challenge 2020
-
-<font color="#a9a9a9"><b>Challenge Owner(s): Advanced Remanufacturing and Technology Centre (ARTC)</b></font>
-
-![4](/images/ongoing-challenges/ARTC_Startup_Challenge_logo.png)
-
-**Application Open Dates: 11 Nov 2019 to 6 Jan 2020**<br>
-<font color=" #a9a9a9"><b>Advanced Remanufacturing and Technology Centre (ARTC)</b></font>
-
-The inaugural ARTC Startup Challenge 2020 is a competition that aims to harness artificial intelligence technologies and crowdsource digitalisation ideas from the startup ecosystem to transform the manufacturing industry.
-
-[Learn more](https://www.a-star.edu.sg/artc/NEWS-EVENTS/Startup-Challenge-2020){:target="_blank"}
-
-#### F&B Tech Reboot
-
-<font color="#a9a9a9"><b>Challenge Owner(s): Restaurant Association of Singapore (RAS)</b></font>
-
-![4](/images/ongoing-challenges/F&B Tech Reboot Challenge Banner.jpeg)
-
-**Application Open Dates: 6 Nov 2019 - 10 Jan 2020**<br>
-<font color=" #a9a9a9"><b>Restaurant Association of Singapore (RAS)</b></font>
-
-Enterprise Singapore is working with the RAS to launch “F&B Tech Reboot 2019”, an innovation call to seek solutions that integrate software with open APIs to encourage digital interoperability in the F&B industry.
-
-[Learn more](https://www.fnbtechreboot.sg/){:target="_blank"}
-
 #### Aquaculture Innovation Challenge
 
 <font color=" #a9a9a9"><b>Challenge Owner(s): HATCH</b></font>
