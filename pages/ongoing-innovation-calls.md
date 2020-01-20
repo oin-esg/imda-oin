@@ -27,7 +27,7 @@ Enterprise Singapore will like to explore opportunities to harness innovative te
 ![1](/images/Augmented Hack Banner.jpg)
 
 **Application Open Dates: 7 Jan 2020 to 14 Mar 2020**<br>
-<font color="#a9a9a9"><b>Enterprise Singapore</b></font>
+<font color="#a9a9a9"><b>Padang & Co</b></font>
 
 At Dell Technologies’ Experience Innovation Group (EIG), we’re passionate about creating the tools that can drive more productive & more enjoyable work: superior products and augmented experiences for the unique needs of an ever-changing workforce.
 
