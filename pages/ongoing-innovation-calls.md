@@ -20,6 +20,21 @@ Enterprise Singapore will like to explore opportunities to harness innovative te
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/enterprise-singapore-innovation-call-seek-solutions-intelligent-web-crawler){:target="_blank"}
 
+#### Dell Augmented Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Dell Technologies</b></font>
+
+![1](/images/Augmented Hack Banner.jpg)
+
+**Application Open Dates: 7 Jan 2020 to 14 Mar 2020**<br>
+<font color="#a9a9a9"><b>Enterprise Singapore</b></font>
+
+At Dell Technologies’ Experience Innovation Group (EIG), we’re passionate about creating the tools that can drive more productive & more enjoyable work: superior products and augmented experiences for the unique needs of an ever-changing workforce.
+
+At the Dell Augmented Hackathon, we’re looking for multi-skilled creators, tinkerers and explorers to join our team and help us imagine, design and build revolutionary tools to shape the Future of Work.
+
+[Learn more](https://www.augmentedhack.com/){:target="_blank"}
+
 #### Plastics Data Challenge<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): The Circulate Initiative, SecondMuse</b></font>
