@@ -76,7 +76,7 @@ The Sustainability Open Innovation Challenge brings together industry partners, 
 
 #### Open Innovation Platform<br>
 
-<font color="#a9a9a9"><b>Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, Schroders Investment Management, Singapore Manufacturing Federation (SMF), SingEx, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB)</b></font>
+<font color="#a9a9a9"><b>Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, SACEOS, Schroders Investment Management, Seriously Addictive, Singapore Manufacturing Federation (SMF), SingEx, Sompo, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB), Visa</b></font>
 
 ![1](/images/ongoing-challenges/IMDA OIP.jpg)
 
