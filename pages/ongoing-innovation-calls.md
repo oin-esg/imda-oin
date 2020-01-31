@@ -7,6 +7,19 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
+#### InnovPLUS Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): iN.LAB of the Institute for Adult Learning (IAL)</b></font>
+
+![1](/images/InnovPlus.png)
+
+**Application Open Dates: 28 Jan 2020 to 18 Mar 2020**<br>
+<font color="#a9a9a9"><b>iN.LAB of the Institute for Adult Learning (IAL)</b></font>
+
+The InnovPLUS Challenge is a competitive learning innovation grant which awards a prototyping grant of up to $200k to winning teams to develop an innovative solutions that advance CET practice and outcomes. The InnovPLUS is organised by iN.LAB of the Institute for Adult Learning (IAL), and is run twice a year.
+
+[Learn more](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities/innovplus-2020-jun.html){:target="_blank"}
+
 #### Intelligent Web Crawler Challenge<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Enterprise Singapore</b></font>
@@ -28,8 +41,6 @@ Enterprise Singapore will like to explore opportunities to harness innovative te
 
 **Application Open Dates: 7 Jan 2020 to 17 Feb 2020**<br>
 <font color="#a9a9a9"><b>Padang & Co</b></font>
-
-At Dell Technologies’ Experience Innovation Group (EIG), we’re passionate about creating the tools that can drive more productive & more enjoyable work: superior products and augmented experiences for the unique needs of an ever-changing workforce.
 
 At the Dell Augmented Hackathon, we’re looking for multi-skilled creators, tinkerers and explorers to join our team and help us imagine, design and build revolutionary tools to shape the Future of Work.
 
