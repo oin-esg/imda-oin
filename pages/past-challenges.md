@@ -7,6 +7,19 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Application Closed**
 
+#### Aquaculture Innovation Challenge
+
+<font color=" #a9a9a9"><b>Challenge Owner(s): HATCH</b></font>
+
+![5](/images/ongoing-challenges/Aquaculture Innov Challenge.jpg)
+
+**Application Open Dates: 20 Sep 2019 to 31 Jan 2020**<br>
+<font color=" #a9a9a9"><b>HATCH</b></font>
+
+The Aquaculture Innovation Challenge organised by HATCH and Entreprise Singapore brings together industry partners, universities, government agencies and innovators to find technology solutions for key aquaculture problems. It aims to catapult Singapore to the forefront of tropical aquaculture innovation.
+
+[Learn more](https://www.aic-singapore.com/){:target="_blank"}
+
 #### ARTC Startup Challenge 2020
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Advanced Remanufacturing and Technology Centre (ARTC)</b></font>
