@@ -85,6 +85,19 @@ IPHatch® is an open-innovation challenge looking for enthusiastic startups and 
 
 [Learn more](https://www.iphatchday.com/){:target="_blank"}
 
+#### TechInnovation Innovation Challenge
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore</b></font>
+
+![3](/images/ongoing-challenges/Techinnovation Logo.png)
+
+**Application Open Dates: 11 Nov 2019 to 31 Mar 2020**<br>
+<font color=" #a9a9a9"><b>Intellectual Property Intermediary (IPI)</b></font>
+
+TechInnovation is a premier technology-industry open innovation event organised by IPI. It brings together international and Singapore technology providers and seekers to explore technology and business collaboration opportunities.
+
+[Learn more](http://challenges.techinnovation.com.sg/){:target="_blank"}
+
 #### Cultiv@te – Innovation for Sustainable Agriculture 
 
 <font color="#a9a9a9"><b>Challenge Owner(s): UNDP Offices in Armenia, Bhutan, Djibouti, Ecuador, Ethiopia, Gabon, Indonesia, Kenya, Philippines, Singapore, Sudan, Uruguay, Uzbekistan</b></font>
@@ -97,7 +110,6 @@ IPHatch® is an open-innovation challenge looking for enthusiastic startups and 
 UNDP Cultiv@te brings together a global coalition of partners and stakeholders that want to bring innovation and technology where it is most needed, combining globally-leading innovation with local knowledge, expertise and market insights.
 
 [Learn more](https://www.agorize.com/en/challenges/undp-cultivate){:target="_blank"}
-
 
 
 
