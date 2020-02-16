@@ -85,52 +85,13 @@ IPHatch® is an open-innovation challenge looking for enthusiastic startups and 
 
 [Learn more](https://www.iphatchday.com/){:target="_blank"}
 
-#### Sustainability Open Innovation Challenge
-
-<font color="#a9a9a9"><b>Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board (HDB), JTC Corporation, National Environment Agency (NEA), Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group</b></font>
-
-![2](/images/ongoing-challenges/Sustainability Open Innov.PNG)
-
-**Application Open Dates: 12 Nov 2019 to 14 Feb 2020**<br>
-<font color="#a9a9a9"><b>Enterprise Singapore</b></font>
-
-The Sustainability Open Innovation Challenge brings together industry partners, government agencies and innovators to drive sustainability innovation in Singapore. Enterprise Singapore is inviting all local and foreign startups and SMEs to join the challenge and to develop new technologies or solutions for key sustainability problems.
-
-[Learn more](https://sustainability.innovation-challenge.sg/){:target="_blank"}
-
-#### Open Innovation Platform<br>
-
-<font color="#a9a9a9"><b>Challenge Owner(s): Agility, Allianz Global Investment, Argud Technologies, Beyon, CA.sg, DWS Investments, E3 Sports, Eastspring Investments, EduSpaze, Equatre, Experia Events, Fidelity International, Gardenasia, GlobalSign.In, Hustle & Bustle, IMAS, MCI-Group, National Heritage Board (NHB), National Library Board (NLB), Nikko Asset Management, ResidentButler.sg, Roche, SACEOS, Schroders Investment Management, Seriously Addictive, Singapore Manufacturing Federation (SMF), SingEx, Sompo, Standard Life Aberdeen Plc, Suntec, United Overseas Bank (UOB), Visa</b></font>
-
-![1](/images/ongoing-challenges/IMDA OIP.jpg)
-
-**Application Open Dates: 13 Nov 2019 to 14 Feb 2020**<br>
-<font color="#a9a9a9"><b>Infocomm Media Development Authority (IMDA)</b></font>
-
-IMDA’s Open Innovation Platform (OIP) is a virtual crowd-sourcing platform that connects and matches real business challenges or digitalisation opportunities of Problem Owners to Problem Solvers. The platform accelerates sectoral digital transformation and expands innovation capacity in Singapore. Industry-wide problem statements are now hosted on the OIP.
-
-[Learn more](https://www.openinnovation.sg/){:target="_blank"}
-
-#### TechInnovation Innovation Challenge
-
-<font color="#a9a9a9"><b>Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore</b></font>
-
-![3](/images/ongoing-challenges/Techinnovation Logo.png)
-
-**Application Open Dates: 11 Nov 2019 to 31 Mar 2020**<br>
-<font color=" #a9a9a9"><b>Intellectual Property Intermediary (IPI)</b></font>
-
-TechInnovation is a premier technology-industry open innovation event organised by IPI. It brings together international and Singapore technology providers and seekers to explore technology and business collaboration opportunities.
-
-[Learn more](http://challenges.techinnovation.com.sg/){:target="_blank"}
-
 #### Cultiv@te – Innovation for Sustainable Agriculture 
 
 <font color="#a9a9a9"><b>Challenge Owner(s): UNDP Offices in Armenia, Bhutan, Djibouti, Ecuador, Ethiopia, Gabon, Indonesia, Kenya, Philippines, Singapore, Sudan, Uruguay, Uzbekistan</b></font>
 
 ![3](/images/ongoing-challenges/undp_cultivate_oin.jpg)
 
-**Application Open Dates: 11 Nov 2019 to 14 Feb 2020**<br>
+**Application Open Dates: 11 Nov 2019 to 28 Feb 2020**<br>
 <font color=" #a9a9a9"><b>United Nations Development Programme (UNDP) </b></font>
 
 UNDP Cultiv@te brings together a global coalition of partners and stakeholders that want to bring innovation and technology where it is most needed, combining globally-leading innovation with local knowledge, expertise and market insights.
