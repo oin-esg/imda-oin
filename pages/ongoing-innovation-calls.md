@@ -7,6 +7,20 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
+#### Ocean of Opportunities (O3)<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): K Line, Hapag-Lloyd, Ocean Network Express, Yusen Logistics</b></font>
+
+![1](/images/banner .png)
+
+**Application Open Dates: 26 Feb 2020 to 24 Mar 2020 (AI Track) & 20 Apr 2020 (General Track)**<br>
+<font color="#a9a9a9"><b>Eco-Business</b></font>
+
+Oh- three, year three, we're going bigger, further, deeper! We're moving more things around the world faster, further and deeper. Sail with us and explore the trillions of opportunities out there! 
+#O3Voyage2020
+
+[Learn more](http://www.ooo.sg){:target="_blank"}
+
 #### The Liveability Challenge 2020<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Eco-Business, Temasek Foundation, Closed Loop Partners</b></font>
