@@ -7,6 +7,20 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Open for Application**
 
+#### Ocean of Opportunities (O3)<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): K Line, Hapag-Lloyd, Ocean Network Express, Yusen Logistics</b></font>
+
+![1](/images/banner .png)
+
+**Application Open Dates: 26 Feb 2020 to 24 Mar (AI Track) & 20 Apr 2020 (General Track)**<br>
+<font color="#a9a9a9"><b>Symphony Creative Solutions, NUS Enterprise, Padang & Co</b></font>
+
+Oh-three, year three, we're going bigger, further, deeper! We're moving more things around the world faster, further and deeper. Sail with us and explore the trillions of opportunities out there! 
+#O3Voyage2020
+
+[Learn more](http://www.ooo.sg){:target="_blank"}
+
 #### The Liveability Challenge 2020<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Eco-Business, Temasek Foundation, Closed Loop Partners</b></font>
@@ -26,7 +40,7 @@ Can your innovation in urban food production, circular packaging or decarbonisat
 
 ![1](/images/InnovPlus.png)
 
-**Application Open Dates: 28 Jan 2020 to 18 Mar 2020**<br>
+**Application Open Dates: 28 Jan 2020 to 31 Mar 2020**<br>
 <font color="#a9a9a9"><b>iN.LAB of the Institute for Adult Learning (IAL)</b></font>
 
 The InnovPLUS Challenge is a competitive learning innovation grant which awards a prototyping grant of up to $200k to winning teams to develop an innovative solutions that advance CET practice and outcomes. The InnovPLUS is organised by iN.LAB of the Institute for Adult Learning (IAL), and is run twice a year.
@@ -45,19 +59,6 @@ The InnovPLUS Challenge is a competitive learning innovation grant which awards 
 Enterprise Singapore will like to explore opportunities to harness innovative technologies to automate the web data collection and curation for the Startup SG Network.
 
 [Learn more](https://gov-pact.ipi-singapore.org/grant-call/enterprise-singapore-innovation-call-seek-solutions-intelligent-web-crawler){:target="_blank"}
-
-#### Dell Augmented Challenge<br>
-
-<font color="#a9a9a9"><b>Challenge Owner(s): Dell Technologies</b></font>
-
-![1](/images/Augmented Hack Banner.jpg)
-
-**Application Open Dates: 7 Jan 2020 to 17 Feb 2020**<br>
-<font color="#a9a9a9"><b>Padang & Co</b></font>
-
-At the Dell Augmented Hackathon, we’re looking for multi-skilled creators, tinkerers and explorers to join our team and help us imagine, design and build revolutionary tools to shape the Future of Work.
-
-[Learn more](https://www.augmentedhack.com/){:target="_blank"}
 
 #### Plastics Data Challenge<br>
 
