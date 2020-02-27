@@ -7,6 +7,19 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Application Closed**
 
+#### Dell Augmented Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Dell Technologies</b></font>
+
+![1](/images/Augmented Hack Banner.jpg)
+
+**Application Open Dates: 7 Jan 2020 to 17 Feb 2020**<br>
+<font color="#a9a9a9"><b>Padang & Co</b></font>
+
+At the Dell Augmented Hackathon, we’re looking for multi-skilled creators, tinkerers and explorers to join our team and help us imagine, design and build revolutionary tools to shape the Future of Work.
+
+[Learn more](https://www.augmentedhack.com/){:target="_blank"}
+
 #### Sustainability Open Innovation Challenge
 
 <font color="#a9a9a9"><b>Challenge Owner(s): EM Services, ENGIE Factory, Haier Group, Housing & Development Board (HDB), JTC Corporation, National Environment Agency (NEA), Pan Pacific Hotels Group, Resorts World Sentosa, Sembcorp Industries, YCH Group</b></font>
