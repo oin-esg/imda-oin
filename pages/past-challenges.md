@@ -7,6 +7,32 @@ breadcrumb: Ongoing Innovation Calls
 
 ### **Application Closed**
 
+#### Intelligent Web Crawler Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Enterprise Singapore</b></font>
+
+![1](/images/Webcrawler Challenge Logo.png)
+
+**Application Open Dates: 8 Jan 2020 to 28 Feb 2020**<br>
+<font color="#a9a9a9"><b>Enterprise Singapore</b></font>
+
+Enterprise Singapore will like to explore opportunities to harness innovative technologies to automate the web data collection and curation for the Startup SG Network.
+
+[Learn more](https://gov-pact.ipi-singapore.org/grant-call/enterprise-singapore-innovation-call-seek-solutions-intelligent-web-crawler){:target="_blank"}
+
+#### Cultiv@te – Innovation for Sustainable Agriculture 
+
+<font color="#a9a9a9"><b>Challenge Owner(s): UNDP Offices in Armenia, Bhutan, Djibouti, Ecuador, Ethiopia, Gabon, Indonesia, Kenya, Philippines, Singapore, Sudan, Uruguay, Uzbekistan</b></font>
+
+![3](/images/ongoing-challenges/undp_cultivate_oin.jpg)
+
+**Application Open Dates: 11 Nov 2019 to 28 Feb 2020**<br>
+<font color=" #a9a9a9"><b>United Nations Development Programme (UNDP) </b></font>
+
+UNDP Cultiv@te brings together a global coalition of partners and stakeholders that want to bring innovation and technology where it is most needed, combining globally-leading innovation with local knowledge, expertise and market insights.
+
+[Learn more](https://www.agorize.com/en/challenges/undp-cultivate){:target="_blank"}
+
 #### Dell Augmented Challenge<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Dell Technologies</b></font>
