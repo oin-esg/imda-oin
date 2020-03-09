@@ -17,9 +17,7 @@ hero-title: Open Innovation Network
 hero-subtitle: Gateway to find all innovation challenges in Singapore
 hero-banner: /images/main-banner.jpg
 #Call to Action Button
-button:
-  - text: 
-    url: 
+
     
 # Info Sections
 info-sections:
