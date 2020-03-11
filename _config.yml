@@ -40,6 +40,6 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   ongoing-challenges:
     output: true
-  left-nav-two:
+  past-challenges:
     output: true
 resources_name: resource-room
