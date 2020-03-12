@@ -6,9 +6,15 @@ breadcrumb: Ongoing Challenges / IPHatch
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
-**Application Open Dates: 6 Dec 2019 to 30 Apr 2020**<br>
-<font color="#a9a9a9"><b>Singapore Tourism Board</b></font>
+#### IPHatch<br>
 
-Be part of the Hotel Innovation Challenge Asia 2020 and pitch your solutions at the FHA-HoReCa2020. Callout for innovative solutions to address hotel problem statements in the area of service delivery, sustainability and housekeeping.
+<font color="#a9a9a9"><b>Challenge Owner(s): Nokia and Panasonic</b></font>
 
-[Learn more](https://sha.org.sg/news_events/news_details/4580/hotel-innovation-challenge-asia-2020){:target="_blank"}
+![1](/images/ongoing-challenges/IPHatchSG 2019 Banner_for IPI.jpg)
+
+**Application Open Dates: 29 Nov 2019 to 15 Mar 2020**<br>
+<font color="#a9a9a9"><b>Piece Future and IPI</b></font>
+
+IPHatch® is an open-innovation challenge looking for enthusiastic startups and entrepreneurs that ambitiously want to scale their businesses to greater heights by incorporating the use of intellectual property and technology portfolios from renowned companies.
+
+[Learn more](https://www.iphatchday.com/){:target="_blank"}
