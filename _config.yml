@@ -42,4 +42,4 @@ collections:
     output: true
   past-challenges:
     output: true
-resources_name: resource-room
+resources_name: insights
