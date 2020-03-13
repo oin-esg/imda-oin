@@ -7,12 +7,12 @@
 - title: About
   url: /about/
   sub-links:
-  -title: About OIN
-   url: /about-oin/
-  -title: About ESG-IMDA Collaboration
-   url: /about-esg-imda-collaboration/
-  -title: About OI 101
-   url: /about-oi-101/
+  - title: About OIN
+    url: /about-oin/
+  - title: About ESG-IMDA Collaboration
+    url: /about-esg-imda-collaboration/
+  - title: About OI 101
+    url: /about-oi-101/
 - title: Enterprise Singapore-IMDA Collaboration
   url: /collaboration/
 - title: Ongoing Innovation Calls
