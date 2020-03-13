@@ -15,14 +15,17 @@
     url: /about-oi-101/
 - title: Enterprise Singapore-IMDA Collaboration
   url: /collaboration/
-- title: Ongoing Innovation Calls
-  url: /ongoing-challenges/
+- title: Innovation Challenges
+  url: /ongoing-innovation-challenges/
   sub-links: 
-  - title: Past Innovation Calls
-    url: /pages/past-challenges/
+  - title: Ongoing Challenges
+    url: /ongoing-innovation-challenges/
+  - title: Past Challenges
+    url: /oin-past-challenges/
+  - title: Share Your Innovation Challenge
+    url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
+    external: true
 - title: Partners
   url: /partners/
-- title: Share Your Innovation Call
-  url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
-  external: true
+
 
