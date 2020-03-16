@@ -17,4 +17,4 @@ second_nav_title: Ongoing Challenges
 
 The InnovPLUS Challenge is a competitive learning innovation grant which awards a prototyping grant of up to $200k to winning teams to develop an innovative solutions that advance CET practice and outcomes. The InnovPLUS is organised by iN.LAB of the Institute for Adult Learning (IAL), and is run twice a year.
 
-[Learn more](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities/innovplus-2020-jun.html){:target="_blank"}
+[Learn more](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities/innovplus-2020-july.html){:target="_blank"}
