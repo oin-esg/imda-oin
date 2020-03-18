@@ -44,5 +44,7 @@ collections:
     output: true
   about:
     output: true
+  resources:
+    output: true
 
 resources_name: insights
