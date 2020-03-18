@@ -11,7 +11,7 @@
     url: /about-oin/
   - title: About ESG-IMDA Collaboration
     url: /about-esg-imda-collaboration/
-  - title: About OI 101
+  - title: Why Open Innovation?
     url: /about-oi-101/
 - title: Enterprise Singapore-IMDA Collaboration
   url: /collaboration/
@@ -27,6 +27,13 @@
     external: true
 - title: Insights
   url: /insights/
+  sub-links: 
+  - title: Latest News
+    url: /insights/latest-news/
+  - title: Upcoming Events
+    url: /insights/upcoming-events/
+  - title: Success Stories
+    url: /insights/success-stories/
 - title: Partners
   url: /partners/
 
