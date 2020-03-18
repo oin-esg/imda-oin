@@ -13,8 +13,6 @@
     url: /about-esg-imda-collaboration/
   - title: Why Open Innovation?
     url: /why-open-innovation/
-- title: Enterprise Singapore-IMDA Collaboration
-  url: /collaboration/
 - title: Innovation Challenges
   url: /ongoing-innovation-challenges/
   sub-links: 
@@ -34,7 +32,9 @@
     url: /insights/upcoming-events/
   - title: Success Stories
     url: /insights/success-stories/
-- title: Partners
+- title: Resources
+  url: /partners/
+- title: Network
   url: /partners/
 
 
