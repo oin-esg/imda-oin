@@ -18,7 +18,7 @@ NUS Enterprise, the entrepreneurial arm of the National University of Singapore 
    <p>ESG, IMDA’s OIP, STB, BCA, HDB, GovTech, JTC, Sentosa Development Corporation, NEA, SFA </p> 
   </details>
 <br>
-Keen to be a part of OIN? Email us at OIN@Enterprisesg.gov.sg 
+Keen to be a part of OIN? Email us at <OIN@Enterprisesg.gov.sg> 
 
 
 
