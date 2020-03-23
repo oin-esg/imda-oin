@@ -23,16 +23,16 @@ Not only does collaboration divide the risk of experimentation among participati
   </details>
 
 <details>
-  <summary>2. Need for speed</summary>
-Time is of the essence in a competitive business landscape. Companies are locked in a relentless race to regularly put out new products or services—or improve on existing ones—to retain or grow their market share. Under such circumstances, innovation is an existential element and a key differentiator.
+  <summary><p>2. Need for speed</p></summary>
+<p>Time is of the essence in a competitive business landscape. Companies are locked in a relentless race to regularly put out new products or services—or improve on existing ones—to retain or grow their market share. Under such circumstances, innovation is an existential element and a key differentiator.
 Nonetheless, the gestation period from concept to invention can take months or even years, depending on the industry and the complexity of the end-product. Rather than innovate from scratch, a company can shorten the time-to-market for novel offerings by seeking out technologies developed at other firms that synergise with its capabilities and are aligned with its innovation goals.
-This approach usually entails working out licensing agreements for patents or other forms of IP. Compared to de novo research and development, the in-licensing of IP is much more rapid and flexible.
+This approach usually entails working out licensing agreements for patents or other forms of IP. Compared to de novo research and development, the in-licensing of IP is much more rapid and flexible.</p>
 </details>
 <details>
-  <summary>3. Build strong networks</summary>
-New and better products and services are just the easily-quantifiable outcomes of open innovation. Another less tangible but significant upside of innovating with external partners is access to their business networks.
+  <summary><p>3. Build strong networks</p></summary>
+<p>New and better products and services are just the easily-quantifiable outcomes of open innovation. Another less tangible but significant upside of innovating with external partners is access to their business networks.
 In the process of collaboration, opportunities may arise to interact with other entrepreneurs and business owners, either locally or abroad. Leveraging these connections, companies may find it easier to venture into new markets. Additionally, any IP that was co-developed could become strategic assets when they are out-licensed to other firms in the extended network.
-Open innovation thus creates a domino effect, paving the way for further partnerships and future revenue streams
+Open innovation thus creates a domino effect, paving the way for further partnerships and future revenue streams</p>
   </details>
 
 <sub>Copyright: Adapted from IPI Singapore. For more innovation insights, please visit [here](https://www.ipi-singapore.org/innovation-insights){:target-"_blank"}.</sub> 
