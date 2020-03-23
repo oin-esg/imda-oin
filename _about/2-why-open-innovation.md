@@ -5,7 +5,7 @@ permalink: /why-open-innovation/
 breadcrumb: Why Open Innovation
 collection_name: about
 ---
-<h4>Reasons to embrace open innovation</h4>
+<h3>Reasons to embrace open innovation</h3>
 
 <sub>When it comes to innovation, two heads are better than one. Here are four key benefits of engaging with external partners to co-create value and accelerate solutions to market.</sub>
 
