@@ -33,5 +33,5 @@ New and better products and services are just the easily-quantifiable outcomes o
 In the process of collaboration, opportunities may arise to interact with other entrepreneurs and business owners, either locally or abroad. Leveraging these connections, companies may find it easier to venture into new markets. Additionally, any IP that was co-developed could become strategic assets when they are out-licensed to other firms in the extended network.
 Open innovation thus creates a domino effect, paving the way for further partnerships and future revenue streams
 
-Copyright: Adapted from IPI Singapore. For more innovation insights, please visit [here.](https://www.ipi-singapore.org/innovation-insights){:target-"_blank"} 
+Copyright: Adapted from IPI Singapore. For more innovation insights, please visit [here](https://www.ipi-singapore.org/innovation-insights){:target-"_blank"}. 
 
