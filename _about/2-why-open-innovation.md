@@ -5,9 +5,14 @@ permalink: /why-open-innovation/
 breadcrumb: Why Open Innovation
 collection_name: about
 ---
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 <h3>Reasons to embrace open innovation</h3>
 
-<sub>When it comes to innovation, two heads are better than one. Here are four key benefits of engaging with external partners to co-create value and accelerate solutions to market.</sub>
+<b>When it comes to innovation, two heads are better than one. Here are four key benefits of engaging with external partners to co-create value and accelerate solutions to market.</b>
 
 From Thomas Edison to Nikola Tesla, stories abound of lone inventors changing the world. But times have changed—the pace of disruption is much faster in our technology-laden age. To keep up, working alone or in silos is no longer enough.
 
