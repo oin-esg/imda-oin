@@ -14,9 +14,9 @@ From Thomas Edison to Nikola Tesla, stories abound of lone inventors changing th
 
 Today, new technologies, products and services are created by multidisciplinary groups of thinkers and doers. While companies have traditionally relied on internal expertise to achieve their innovation goals, many are beginning to recognise the value of looking beyond their four walls for talent and fresh perspectives.
 
-Open innovation is thus becoming a favoured mode of operations in corporations big and small, whereby collaboration with external partners is the norm. By bringing people and ideas together, companies have the potential to leapfrog the competition and sustain growth in the long term. We feature here four rewards of open innovation that any business can reap.
+Open innovation is thus becoming a favoured mode of operations in corporations big and small, whereby collaboration with external partners is the norm. By bringing people and ideas together, companies have the potential to leapfrog the competition and sustain growth in the long term. We feature here four rewards of open innovation that any business can reap.</p>
 
-<details>
+<details align="justify">
   <summary><p>1. Share the load, divide the spoils</p></summary>
 <p align="justify">Different companies have different appetites for risk. The amount of resources at their disposal may also vary widely. Because innovation often involves an experimental phase where the chance of failure and the cost of trial and error is high, business owners may be hesitant to even initiate the process of innovation.
 Fortunately, the challenges of risks and cost are not insurmountable—they only represent the internal constraints of a company. Rather than bear the risks of innovation alone, enterprises can seek out industry players that share their pain points to cooperate on exploratory projects aimed at addressing specific problems.
