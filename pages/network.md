@@ -9,18 +9,24 @@ NUS Enterprise, the entrepreneurial arm of the National University of Singapore 
 
 <details>
   <summary><p><u>Open Innovation Intermediaries</u></p></summary>
-   <p>ACE, Agorize, APIX, BlueChilli, Budding Innovation, ICMG Singapore, NTUitive, NUS Enterprise, Padang & Co., Plug & Play, Rise, TNB Ventures, IoT Tribe, Xnode, Rainmaking, In.Labs
+   <p>
      <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Agorize</li>
+  <li>APIX</li>
+  <li>HATCH</li>
+  <li>ICMG</li>
+  <li>Innovation Enablers Network by ACE</li>
+  <li>Padang & Co</li>
 </ul>
 </p> 
   </details>
 
 <details>
   <summary><p><u>Public Agencies</u></p></summary>
-   <p>ESG, IMDA’s OIP, STB, BCA, HDB, GovTech, JTC, Sentosa Development Corporation, NEA, SFA </p> 
+   <p><ul>
+  <li>Building & Construction Authority (BCA)</li>
+  <li>Singapore Tourism Board</li>
+</ul></p> 
   </details>
 <br>
 Keen to be a part of OIN? Email us at <OIN@Enterprisesg.gov.sg> 
