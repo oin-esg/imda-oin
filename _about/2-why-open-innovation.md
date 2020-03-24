@@ -18,24 +18,24 @@ Open innovation is thus becoming a favoured mode of operations in corporations b
 
 <details align="justify">
   <summary><p>1. Share the load, divide the spoils</p></summary>
-<p align="justify">Different companies have different appetites for risk. The amount of resources at their disposal may also vary widely. Because innovation often involves an experimental phase where the chance of failure and the cost of trial and error is high, business owners may be hesitant to even initiate the process of innovation.
+<p>Different companies have different appetites for risk. The amount of resources at their disposal may also vary widely. Because innovation often involves an experimental phase where the chance of failure and the cost of trial and error is high, business owners may be hesitant to even initiate the process of innovation.
 Fortunately, the challenges of risks and cost are not insurmountable—they only represent the internal constraints of a company. Rather than bear the risks of innovation alone, enterprises can seek out industry players that share their pain points to cooperate on exploratory projects aimed at addressing specific problems.
 Not only does collaboration divide the risk of experimentation among participating stakeholders, it also opens up more financing options for carrying out research and development. This in turn provides a longer runway for the development of robust and relevant solutions. In this context, open innovation among companies can be viewed as co-investment in the future.</p>
   </details><br>
 
 <details>
   <summary><p>2. Need for speed</p></summary>
-<p align="justify">Time is of the essence in a competitive business landscape. Companies are locked in a relentless race to regularly put out new products or services—or improve on existing ones—to retain or grow their market share. Under such circumstances, innovation is an existential element and a key differentiator.
+<p>Time is of the essence in a competitive business landscape. Companies are locked in a relentless race to regularly put out new products or services—or improve on existing ones—to retain or grow their market share. Under such circumstances, innovation is an existential element and a key differentiator.
 Nonetheless, the gestation period from concept to invention can take months or even years, depending on the industry and the complexity of the end-product. Rather than innovate from scratch, a company can shorten the time-to-market for novel offerings by seeking out technologies developed at other firms that synergise with its capabilities and are aligned with its innovation goals.
 This approach usually entails working out licensing agreements for patents or other forms of IP. Compared to de novo research and development, the in-licensing of IP is much more rapid and flexible.</p>
 </details><br>
 
 <details>
   <summary><p>3. Build strong networks</p></summary>
-<p align="justify">New and better products and services are just the easily-quantifiable outcomes of open innovation. Another less tangible but significant upside of innovating with external partners is access to their business networks.
+<p>New and better products and services are just the easily-quantifiable outcomes of open innovation. Another less tangible but significant upside of innovating with external partners is access to their business networks.
 In the process of collaboration, opportunities may arise to interact with other entrepreneurs and business owners, either locally or abroad. Leveraging these connections, companies may find it easier to venture into new markets. Additionally, any IP that was co-developed could become strategic assets when they are out-licensed to other firms in the extended network.
 Open innovation thus creates a domino effect, paving the way for further partnerships and future revenue streams</p>
-  </details></p>
+  </details>
 
 <sub>Copyright: Adapted from IPI Singapore. For more innovation insights, please visit [here](https://www.ipi-singapore.org/innovation-insights){:target-"_blank"}.</sub> 
 
