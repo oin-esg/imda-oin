@@ -6,7 +6,7 @@ breadcrumb: Ongoing Challenges / Liveability Challenge
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/glvDT7ApcBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="right" src="https://www.youtube.com/embed/glvDT7ApcBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### The Liveability Challenge 2020<br>
 
