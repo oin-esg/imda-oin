@@ -46,5 +46,7 @@ collections:
     output: true
   resources:
     output: true
+  network:
+    output: true
 
 resources_name: insights
