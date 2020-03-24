@@ -6,6 +6,8 @@ breadcrumb: Ongoing Challenges / Liveability Challenge
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glvDT7ApcBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### The Liveability Challenge 2020<br>
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Eco-Business, Temasek Foundation, Closed Loop Partners</b></font>
