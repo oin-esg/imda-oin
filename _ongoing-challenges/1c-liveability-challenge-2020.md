@@ -19,6 +19,6 @@ second_nav_title: Ongoing Challenges
 
 Can your innovation in urban food production, circular packaging or decarbonisation make cities in the tropics sustainable and future-ready? Apply to The Liveability Challenge now and secure up to S$1 million in grant funding.
 
-<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/glvDT7ApcBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="justify"><iframe width="560" height="315" src="https://www.youtube.com/embed/glvDT7ApcBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 [Learn more](http://bit.ly/theliveabilitychallenge2020){:target="_blank"}
