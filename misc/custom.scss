@@ -58,13 +58,13 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   	}
   	&-3 {
-  		background-color: $media-color-three;
+  		background-color: #ff6a14;
   		&:hover {
   			background-color: darken($media-color-three, 10%);
 		}
   	}
   	&-4 {
-  		background-color: #005d8f;
+  		background-color: #00b0b9;
   		&:hover {
   			background-color: darken($media-color-four, 10%);
 		}
