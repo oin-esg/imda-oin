@@ -16,7 +16,7 @@ Today, new technologies, products and services are created by multidisciplinary 
 
 Open innovation is thus becoming a favoured mode of operations in corporations big and small, whereby collaboration with external partners is the norm. By bringing people and ideas together, companies have the potential to leapfrog the competition and sustain growth in the long term. We feature here four rewards of open innovation that any business can reap.</p>
 
-<details align="justify">
+<details>
   <summary><p>1. Share the load, divide the spoils</p></summary>
 <p>Different companies have different appetites for risk. The amount of resources at their disposal may also vary widely. Because innovation often involves an experimental phase where the chance of failure and the cost of trial and error is high, business owners may be hesitant to even initiate the process of innovation.
 Fortunately, the challenges of risks and cost are not insurmountable—they only represent the internal constraints of a company. Rather than bear the risks of innovation alone, enterprises can seek out industry players that share their pain points to cooperate on exploratory projects aimed at addressing specific problems.
