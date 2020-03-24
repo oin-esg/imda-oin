@@ -8,7 +8,7 @@ collection_name: about
 
 <h3>Reasons to embrace open innovation</h3>
 
-<b>When it comes to innovation, two heads are better than one. Here are four key benefits of engaging with external partners to co-create value and accelerate solutions to market.</b>
+<p align="justify"><b>When it comes to innovation, two heads are better than one. Here are four key benefits of engaging with external partners to co-create value and accelerate solutions to market.</b>
 
 From Thomas Edison to Nikola Tesla, stories abound of lone inventors changing the world. But times have changed—the pace of disruption is much faster in our technology-laden age. To keep up, working alone or in silos is no longer enough.
 
@@ -35,7 +35,7 @@ This approach usually entails working out licensing agreements for patents or ot
 <p>New and better products and services are just the easily-quantifiable outcomes of open innovation. Another less tangible but significant upside of innovating with external partners is access to their business networks.
 In the process of collaboration, opportunities may arise to interact with other entrepreneurs and business owners, either locally or abroad. Leveraging these connections, companies may find it easier to venture into new markets. Additionally, any IP that was co-developed could become strategic assets when they are out-licensed to other firms in the extended network.
 Open innovation thus creates a domino effect, paving the way for further partnerships and future revenue streams</p>
-  </details>
+  </details></p>
 
 <sub>Copyright: Adapted from IPI Singapore. For more innovation insights, please visit [here](https://www.ipi-singapore.org/innovation-insights){:target-"_blank"}.</sub> 
 
