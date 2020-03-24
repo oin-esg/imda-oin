@@ -23,4 +23,7 @@ Can your innovation in urban food production, circular packaging or decarbonisat
   <iframe src="https://www.youtube.com/embed/glvDT7ApcBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+<video height="600" autoplay="true" loop="true" muted="true" plays-inline="" style="position: absolute; right: 0; top: 0; min-width:100%; z-index: -100; object-fit: cover;">
+      <source src="https://www.youtube.com/embed/glvDT7ApcBY" type="video/mp4"> </video>
+
 [Learn more](http://bit.ly/theliveabilitychallenge2020){:target="_blank"}
