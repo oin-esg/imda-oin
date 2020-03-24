@@ -10,6 +10,11 @@ NUS Enterprise, the entrepreneurial arm of the National University of Singapore 
 <details>
   <summary><p><u>Open Innovation Intermediaries</u></p></summary>
    <p>ACE, Agorize, APIX, BlueChilli, Budding Innovation, ICMG Singapore, NTUitive, NUS Enterprise, Padang & Co., Plug & Play, Rise, TNB Ventures, IoT Tribe, Xnode, Rainmaking, In.Labs
+     <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 </p> 
   </details>
 
