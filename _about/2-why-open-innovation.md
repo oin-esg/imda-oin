@@ -5,10 +5,6 @@ permalink: /why-open-innovation/
 breadcrumb: Why Open Innovation
 collection_name: about
 ---
-div {
-  text-align: justify;
-  text-justify: inter-word;
-}
 
 <h3>Reasons to embrace open innovation</h3>
 
