@@ -9,7 +9,7 @@ second_nav_title: Resource List
 
 ![1](/images/resources/GIA Logo Landscape_RGB.png)
 
-Global Innovation Alliance (GIA) is a network of Singapore and overseas partners in major innovation hubs and key demand markets, with a focus on technology and innovation. It is a joint initiative started by Enterprise Singapore and the Singapore Economic Development Board.
+Global Innovation Alliance (GIA) is a network of Singapore and overseas partners in major innovation hubs and key demand markets, with a focus on technology and innovation. It is a joint initiative started by Enterprise Singapore and the [Singapore Economic Development Board](https://www.edb.gov.sg/){:target="_blank}.
  
 We have partnered in-market players across our GIA cities to run inbound and outbound GIA Acceleration Programmes, connecting companies to overseas business and tech communities. Our GIA Acceleration Programmes will support (i) Singapore startups and SMEs in venturing abroad; and (ii) international startups in scaling up in Asia through Singapore.
  
