@@ -7,7 +7,7 @@ collection_name: resources
 second_nav_title: Resource List
 ---
 
-![1](/images/resources/IPI_MasterLogoColHres.jpg)
+<img src="/images/resources/IPI_MasterLogoColHres.jpg" alt="1" style="width:500px;height:344px;">
 
 Complementing the personalised services that we offer, IPI has successfully established the online Technology Marketplace where technology innovation seekers and providers can post and find Technology Offers and Technology Needs. Our marketplace amplifies the reach of IPI’s network and facilitates the successful matching of technologies.
 
