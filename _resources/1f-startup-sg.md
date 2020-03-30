@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Startup SG Network
-permalink: /startup-sg-network/
-breadcrumb: Resources / Startup SG Network
+title: Startup SG
+permalink: /startup-sg/
+breadcrumb: Resources / Startup SG
 collection_name: resources
 second_nav_title: Resource List
 ---
