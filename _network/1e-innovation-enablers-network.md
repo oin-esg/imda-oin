@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Innovation Enablers Network by ACE
+title: IEN
 permalink: /network/innovation-enablers-network
-breadcrumb: Network / Innovation Enablers Network by ACE
+breadcrumb: Network / IEN
 collection_name: network
 second_nav_title: Open Innovation Intermediaries
 ---
