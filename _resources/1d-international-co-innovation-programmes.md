@@ -7,7 +7,7 @@ collection_name: resources
 second_nav_title: Resource List
 ---
 
-![1](/images/resources/SIIRD Logo_white bkgnd.png)
+<img src="/images/resources/SIIRD Logo_white bkgnd.png" alt="1" style="width:500px;height:234px;">
 
 In today’s age, innovation is the name of the game. But you don’t have to develop solutions in isolation. Singapore’s international co-innovation programmes will assist in your company’s growth and internationalisation, by supporting projects that catalyse cross-border collaboration on technology development and co-innovation.
 
