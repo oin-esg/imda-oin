@@ -49,10 +49,6 @@
     url: /startup-sg/
 - title: Network
   url: /network/
-  sub-links: 
-  - title: Open Innovation Intermediaries
-    url: /network/open-innovation-intermediaries
-  - title: Public Agencies
-    url: /network/public-agencies
+  
 
 
