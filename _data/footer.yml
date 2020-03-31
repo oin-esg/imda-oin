@@ -52,19 +52,7 @@
 - title: Network
   url: /network/
   sub-links: 
-  - title: Agorize
-    url: /network/agorize/
-  - title: APIX
-    url: /network/apix/
-  - title: HATCH
-    url: /network/hatch/
-  - title: ICMG
-    url: /network/icmg/
-  - title: IEN
-    url: /network/innovation-enablers-network/
-  - title: Padang & Co
-    url: /network/padang&co/
-  - title: Building & Construction Authority (BCA)
-    url: /network/building&consutrction-authority/
-  - title: Singapore Tourism Board
-    url: /network/singapore-tourism-board/ 
+  - title: Open Innovation Intermediaries
+    url: /network/open-innovation-intermediaries
+  - title: Public Agencies
+    url: /network/public-agencies
