@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Public Agencies
+title: Main Page
 permalink: /network/public-agencies
-breadcrumb: Network / Public Agencies
+breadcrumb: Network / Public Agencies / Main Page
 collection_name: network
 second_nav_title: Public Agencies
 ---
