@@ -52,19 +52,19 @@ $desktop: 960px + (2 * $gap) !default;
 		}
   	}
   	&-2 {
-  		background-color: $media-color-two;
+  		background-color: #9b26b6;
   		&:hover {
   			background-color: darken($media-color-two, 10%);
 		}
   	}
   	&-3 {
-  		background-color: $media-color-three;
+  		background-color: #ff6a14;
   		&:hover {
   			background-color: darken($media-color-three, 10%);
 		}
   	}
   	&-4 {
-  		background-color: $media-color-four;
+  		background-color: #00b0b9;
   		&:hover {
   			background-color: darken($media-color-four, 10%);
 		}
@@ -201,7 +201,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $tertiary !important;
+  background-color: #E7131A !important;
 }
 
 // Pagination

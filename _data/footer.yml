@@ -1,19 +1,54 @@
+  
 ##################################
 #                                #
 # Feel free to edit this file :) #
 #                                #
 ##################################
-
 - title: About
-  url: /about/
-- title: Enterprise Singapore-IMDA Collaboration
-  url: /collaboration/
-- title: Ongoing Innovation Calls
-  url: /ongoing-challenges/
-- title: Partners
-  url: /partners/
-- title: Share Your Innovation Call
-  url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
-  external: true
-- title: Contact Us
-  url: /contact-us/
+  url: /about-oin/
+  sub-links:
+  - title: About OIN
+    url: /about-oin/
+  - title: About ESG-IMDA Collaboration
+    url: /about-esg-imda-collaboration/
+  - title: Why Open Innovation?
+    url: /why-open-innovation/
+- title: Innovation Challenges
+  url: /ongoing-innovation-challenges/
+  sub-links: 
+  - title: Ongoing Challenges
+    url: /ongoing-innovation-challenges/
+  - title: Past Challenges
+    url: /oin-past-challenges/
+  - title: Share Your Innovation Challenge
+    url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
+    external: true
+- title: Resources
+  url: /resources-main/
+  sub-links: 
+  - title: Centers of Innovation
+    url: /centers-of-innovation/
+  - title: Global Innovation Alliance
+    url: /global-innovation-alliance/
+  - title: Intellectual Property Office of Singapore
+    url: /intellectual-property-office-of-singapore/
+  - title: International Co-Innovation Programmes
+    url: /international-co-innovation-programmes/
+  - title: IPI Tech Marketplace
+    url: /ipi-tech-marketplace/
+  - title: Startup SG
+    url: /startup-sg/
+- title:   
+  url: 
+- title: Insights
+  url: /insights/
+  sub-links: 
+  - title: Latest News
+    url: /insights/latest-news/
+  - title: Upcoming Events
+    url: /insights/upcoming-events/
+  - title: Success Stories
+    url: /insights/success-stories/
+- title: Network
+  url: /network/
+  
