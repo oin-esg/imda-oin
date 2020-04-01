@@ -6,7 +6,7 @@ breadcrumb: Ongoing Challenges / Open Innovation Platform
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
-#### TechInnovation Innovation Challenge
+#### Open Innovation Platform
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Carrier Transicold, Changi Airport Fuel Hydrant Installation, City Developments Limited, E3 Sports, Edtrix Innovation, Ferrero, Infineon, Panasonic, SIA, Singtel Future Makers, Soilbuild Construction Group, Warees Investments, Building and Construction Authority (BCA), Ministry of Manpower, Singapore International Chamber of Commerce, Textile & Fashion Federation (TAFF), and National Heritage Board</b></font>
 
