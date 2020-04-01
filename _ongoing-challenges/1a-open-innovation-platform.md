@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 ![3](/images/ongoing-challenges/call6_open_main_v2.png)
 
 **Application Open Dates: 1 April 2020 to 5 June 2020**<br>
-<font color=" #a9a9a9"><b>Intellectual Property Intermediary (IPI)</b></font>
+<font color=" #a9a9a9"><b>Infocomm Media Development Authority (IMDA)</b></font>
 
 21 challenges, $630k in prize monies - the new Innovation Call for IMDA’s Open Innovation Platform (OIP) is now open!
 
@@ -21,4 +21,4 @@ Real business problems from the likes of BCA, Panasonic, Singtel and more, it's 
 
 #SGDigital #OpenforInnovation #OpenInnovationSG #IMDAOIP #Singapore #DigitalEconomy
 
-[Learn more](www.openinnovation.sg/){:target="_blank"}
+[Learn more](https://www.openinnovation.sg/about){:target="_blank"}
