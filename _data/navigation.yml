@@ -23,6 +23,8 @@
   - title: Share Your Innovation Challenge
     url: https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf
     external: true
+- title: Success Stories
+  url: /insights/success-stories/
 - title: Insights
   url: /insights/
   sub-links: 
@@ -30,8 +32,6 @@
     url: /insights/latest-news/
   - title: Upcoming Events
     url: /insights/upcoming-events/
-  - title: Success Stories
-    url: /insights/success-stories/
 - title: Resources
   url: /resources-main/
   sub-links: 
