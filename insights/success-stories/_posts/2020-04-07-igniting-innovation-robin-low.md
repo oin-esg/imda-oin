@@ -4,10 +4,10 @@ title: Igniting Innovation — Robin Low of Areteon
 date: 2020-04-07
 permalink: /insights/success-stories/robin-low-areteon/
 ---
+![1](/images/success-stories/1. Areteon Pic.jpg)
+
 <h3>From pets to products for people</h3>
 <sub>Excerpt: Through open innovation, Areteon has found success in transforming emerging veterinary technologies from prototype to product.</sub>
-
-![1](/images/success-stories/1. Areteon Pic.jpg)
 
 <p align="justify">Are you a cat or dog person? Regardless of your preference, it’s safe to say that most people have owned a pet at some point in their lives. But whether you’ve ever had a googly-eyed goldfish or a playful puppy, pet ownership isn’t all just fun and games. It involves considerable responsibility and due diligence, especially in areas of grooming, diet and health.<br>
 While America remains the largest market for pet products, Asia is indisputably the fastest growing market. In China, the demand for pet food alone is predicted to grow at a compound annual growth rate of 28.9% and reach US$6.125 billion by 2022, according to analysis by Euromonitor International. <br>
