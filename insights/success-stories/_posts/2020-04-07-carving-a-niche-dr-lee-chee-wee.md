@@ -4,9 +4,11 @@ title: Carving a Niche — An Interview with Dr Lee Chee Wee of the Aquaculture 
 date: 2020-04-07
 permalink: /insights/success-stories/carving-a-niche-dr-lee-chee-wee/
 ---
+
 <img src="/images/success-stories/2. AIC.jpg" alt="1" style="width:600px;height:400px;">
 
 <h3>Fishing for solutions in a sea of innovation</h3><br>
+
 <sub>The Aquaculture Innovation Centre is looking to support and grow the aquaculture industry in Singapore through collaboration and open innovation.</sun>
 
 <p align="justify">As more of the global population moves towards urban centres, land originally used for food production is rapidly being converted into urban sprawl. The city-state of Singapore, for example, uses less than 1% of its total land area for agriculture, relying mostly on overseas sources to sustain its food supply. In times of worldwide uncertainty, this dependence on the global supply chain can pose a food security issue if food-producing nations shut their borders.<br>
@@ -31,7 +33,8 @@ We are looking for collaborators that can contribute either their knowledge or t
 In addition, we are also keen to engage collaborators with aquaculture resources, such as foreign COIs or institutes. This type of collaboration can come in many forms, such as research and development (R&D), services, training or education. For example, we have collaborators in India that will help aquaculture enterprises in Singapore deploy their technology there, where greater operational support and space for growth can be found.<br><br>
 
 <b>5. How can companies engage and begin working with AIC?</b><br>
-Companies may engage us through our website and various outreach events. While we are only nine months old, AIC has met with more than 250 companies to date. Companies may also engage us through agencies like the Enterprise Singapore, Economic Development Board or the Singapore Food Agency. By collaborating with AIC, your company will be part of a nationwide effort to grow the aquaculture industry, so that we can help Singapore become the global hub for aquaculture innovation.<br><br></p>
+Companies may engage us through our website and various outreach events. While we are only nine months old, AIC has met with more than 250 companies to date. Companies may also engage us through agencies like the Enterprise Singapore, Economic Development Board or the Singapore Food Agency. By collaborating with AIC, your company will be part of a nationwide effort to grow the aquaculture industry, so that we can help Singapore become the global hub for aquaculture innovation.</p>
 
+<br>
 Copyright: IPI Singapore. Read the original article [here](https://www.ipi-singapore.org/innovation-insights/carving-niche—-interview-dr-lee-chee-wee-aquaculture-innovation-centre){:target="_blank"} 
 
