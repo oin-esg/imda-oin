@@ -4,7 +4,7 @@ title: Igniting Innovation — Robin Low of Areteon
 date: 2020-04-07
 permalink: /insights/success-stories/robin-low-areteon/
 ---
-![1](/images/success-stories/1. Areteon Pic.jpg)
+<img src="/images/success-stories/1. Areteon Pic.jpg" alt="1" width="400" height="187.44">
 
 <h3>From pets to products for people</h3>
 <sub>Excerpt: Through open innovation, Areteon has found success in transforming emerging veterinary technologies from prototype to product.</sub>
