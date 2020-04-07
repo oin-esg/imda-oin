@@ -4,6 +4,8 @@ title: Carving a Niche — An Interview with Dr Lee Chee Wee of the Aquaculture 
 date: 2020-04-07
 permalink: /insights/success-stories/carving-a-niche-dr-lee-chee-wee/
 ---
+![1](/images/success-stories/2. AIC.jpg)
+
 Fishing for solutions in a sea of innovation
 <sub>The Aquaculture Innovation Centre is looking to support and grow the aquaculture industry in Singapore through collaboration and open innovation.</sun>
 
