@@ -44,3 +44,16 @@ The Plastics Data Challenge by the Incubation Network is a global innovation cha
 The InnovPLUS Challenge is a competitive learning innovation grant which awards a prototyping grant of up to $200k to winning teams to develop an innovative solutions that advance CET practice and outcomes. The InnovPLUS is organised by iN.LAB of the Institute for Adult Learning (IAL), and is run twice a year.
 
 [Learn more](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities/innovplus-2020-july.html){:target="_blank"}
+
+#### TechInnovation Innovation Challenge
+
+<font color="#a9a9a9"><b>Challenge Owner(s): Anugrah Argon Medica, Changi Airport Group (CAG), Danone Nutricia Research, Johnson & Johnson, PT Global Urban Esensial, Reckitt Benckiser, Rolls-Royce Singapore</b></font>
+
+![3](/images/ongoing-challenges/Techinnovation Logo.png)
+
+**Application Open Dates: 11 Nov 2019 to 31 Mar 2020**<br>
+<font color=" #a9a9a9"><b>Intellectual Property Intermediary (IPI)</b></font>
+
+TechInnovation is a premier technology-industry open innovation event organised by IPI. It brings together international and Singapore technology providers and seekers to explore technology and business collaboration opportunities.
+
+[Learn more](http://challenges.techinnovation.com.sg/){:target="_blank"}
