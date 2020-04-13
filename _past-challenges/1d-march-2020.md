@@ -31,3 +31,16 @@ IPHatch® is an open-innovation challenge looking for enthusiastic startups and 
 The Plastics Data Challenge by the Incubation Network is a global innovation challenge to end ocean plastic pollution. The challenge will source, support, and scale innovative solutions, methodologies and working prototypes that create and leverage data to address the leakage of plastic waste into the environment and to facilitate the entry of these solutions into markets across South and Southeast Asia.
 
 [Learn more](https://www.agorize.com/en/challenges/plastics-data-challenge/){:target="_blank"}
+
+#### InnovPLUS Challenge<br>
+
+<font color="#a9a9a9"><b>Challenge Owner(s): iN.LAB of the Institute for Adult Learning (IAL)</b></font>
+
+![1](/images/InnovPlus.png)
+
+**Application Open Dates: 28 Jan 2020 to 31 Mar 2020**<br>
+<font color="#a9a9a9"><b>iN.LAB of the Institute for Adult Learning (IAL)</b></font>
+
+The InnovPLUS Challenge is a competitive learning innovation grant which awards a prototyping grant of up to $200k to winning teams to develop an innovative solutions that advance CET practice and outcomes. The InnovPLUS is organised by iN.LAB of the Institute for Adult Learning (IAL), and is run twice a year.
+
+[Learn more](https://www.ial.edu.sg/start-learning-innovation/in-lab/innovation-activities/innovplus-2020-july.html){:target="_blank"}
