@@ -35,6 +35,5 @@ In addition, we are also keen to engage collaborators with aquaculture resources
 <b>5. How can companies engage and begin working with AIC?</b><br>
 Companies may engage us through our website and various outreach events. While we are only nine months old, AIC has met with more than 250 companies to date. Companies may also engage us through agencies like the Enterprise Singapore, Economic Development Board or the Singapore Food Agency. By collaborating with AIC, your company will be part of a nationwide effort to grow the aquaculture industry, so that we can help Singapore become the global hub for aquaculture innovation.</p>
 
-<sub>
-Copyright: IPI Singapore. Read the original article [here](https://www.ipi-singapore.org/innovation-insights/carving-niche—-interview-dr-lee-chee-wee-aquaculture-innovation-centre){:target="_blank"} </sub> 
-
+<b>
+Copyright: IPI Singapore. Read the original article [here](https://www.ipi-singapore.org/innovation-insights/carving-niche—-interview-dr-lee-chee-wee-aquaculture-innovation-centre){:target="_blank"} <br><br>
