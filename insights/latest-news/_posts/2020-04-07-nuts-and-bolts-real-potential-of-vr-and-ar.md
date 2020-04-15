@@ -38,3 +38,5 @@ Beyond its potential in the workplace, VR and AR could also make a profound impa
 
 Developed with the aim of helping patients manage chronic pain, this VR innovation uses visual cues to simulate pain-free movement, and has been shown to shift the onset of pain. The technology is based on a rehabilitation method called mirror therapy, which uses a mirror image to provide relief for patients suffering from persistent pain.
 The system can use smartphones as the VR display, overcoming a common barrier to entry for the technology. Moreover, the therapy is easily applied and can be adapted for different parts of the body, such as the back, neck and spine. Pain clinics or rehabilitation centres can adopt this VR-based therapy, which may prove to be a useful tool for both physiotherapists and occupational therapists.</p>
+
+Copyright: IPI Singapore. Read the original article [here](https://www.ipi-singapore.org/innovation-insights/nuts-bolts-—-taking-sting-out-medical-testing){:target="_blank"}
