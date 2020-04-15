@@ -30,7 +30,7 @@ To help businesses develop AR solutions tailored their needs, a company is offer
 
 Through customisation, the company aims to offer the best technology in terms of complexity, detail and interaction. Industries ranging from entertainment and tourism to manufacturing can all exploit AR. A global forecast on the AR market by ReportLinker this year has predicted a CAGR of 46.6% from 2020 to 2024, making the market a tremendous area of growth to watch for.<br><br>
  
-<img src="" alt="1" style="width:px;height:px;">
+<img src="/images/latest-news/3.4 Nuts & Bolts article.jpg" alt="1" style="width:600px;height:284px;">
 
 <br><br><b>A virtually pain-free life</b><br><br>
 
