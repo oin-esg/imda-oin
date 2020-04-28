@@ -10,7 +10,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Panasonic R&D Center Singapore</b></font>
 
-![3](/images/ongoing-challenges/Challenge banner.png)
+![3](/images/ongoing-challenges/ICMG-Panasonic2020.jpg)
 
 **Application Open Dates: 10 Apr 2020 to 5 Jun 2020**<br>
 <font color=" #a9a9a9"><b>ICMG Singapore, ACE</b></font>
