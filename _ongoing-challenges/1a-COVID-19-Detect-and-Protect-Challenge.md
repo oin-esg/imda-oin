@@ -20,6 +20,10 @@ COVID-19 is an unprecedented global health and humanitarian emergency. It threat
  
 This extraordinary global situation demands a global response. As an answer, the United Nations Development Programme and Hackster.io are joining forces with the world’s brightest technology companies. We are calling on hardware and software developers, product designers, scientists, hackers, makers, and innovators to come together to work for those who will be hardest hit by this pandemic.
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=vqBm2d-VUns" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 *Early submissions are encouraged in order to identify promising solutions as soon as possible. 
 
 [Learn more](https://www.covid19detectprotect.org){:target="_blank"}
