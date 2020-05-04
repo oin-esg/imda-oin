@@ -9,6 +9,8 @@ second_nav_title: Ongoing Challenges
 
 #### Closing The Waste Loop Innovation Call
 
+**Request for Proposal (RFP) on Landfill Avoidance and Value Recovery from Non-Incinerable Waste**<br>
+
 <font color="#a9a9a9"><b>Challenge Owner(s): National Environment Agency</b></font>
 
 **Application Open Dates: 19 March 2020 to 25 June 2020**<br>
