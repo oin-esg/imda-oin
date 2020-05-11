@@ -8,7 +8,12 @@ second_nav_title: Ongoing Challenges
 ---
 
 #### AWS Hackdays Online 2020
+**bold** <b>bold</b>
+*italics* <i>italics</i>
+<sub>subscript</sub> <small>small script</small>
 
+---
+>text here
 
 ![1](/images/ongoing-challenges/COVID19DetectProtect Social Media_TW_1200x675_Red.png)
 
