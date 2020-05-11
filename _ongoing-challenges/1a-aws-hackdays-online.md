@@ -13,7 +13,7 @@ second_nav_title: Ongoing Challenges
 
 <font color="#a9a9a9"><b>Challenge Owner(s): Amazon Web Services</b></font>
 
-**Application Open Dates: 24 April 2020 to 19 July 2020***<br>
+**Application Open Dates: 24 April 2020 to 19 July 2020**<br>
 <font color=" #a9a9a9"><b>Agorize</b></font>
 
 This year’s edition of AWS Hackdays 2020: Build Tomorrow!, is designed for builders who are eager to create a positive impact on local communities with the power of technology right from their home.
