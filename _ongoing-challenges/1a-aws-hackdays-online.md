@@ -15,7 +15,7 @@ second_nav_title: Ongoing Challenges
 ---
 >text here
 
-![1](/images/ongoing-challenges/COVID19DetectProtect Social Media_TW_1200x675_Red.png)
+![1](/images/ongoing-challenges/AWS online_banner_desktop_main.png)
 
 <font color="#a9a9a9"><b>Challenge Owner(s): UNDP</b></font>
 
