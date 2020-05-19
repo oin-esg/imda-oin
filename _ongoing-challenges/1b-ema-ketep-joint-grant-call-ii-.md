@@ -21,17 +21,24 @@ Under Singapore’s ongoing collaboration with the Republic of Korea to pursue a
 
 The problem statements under this grant call are: 
 
-a)	Enabling the use of hydrogen for power generation in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:
+<b>a)	Enabling the use of hydrogen for power generation in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
 
 i.	Safe and cost-effective technologies for storage, transportation and/or fuel delivery of hydrogen gas; and/or
 ii.	Energy-efficient emissions-free pathways for hydrogen production, e.g. methane pyrolysis and water electrolysis.
 
-b)	Facilitating the deployment of solar PV in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:
+<b>b)	Facilitating the deployment of solar PV in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
 
 i.	Cost-effective grid integrated solar PV systems, e.g. portable PV; and/or
 ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integrated/building-applied PV. 
 
 Each proposal should address one problem statement only.
+
+<font color="#a9a9a9">Energy Market Authority</font>
+
+![1](/images/ongoing-challenges/EMA_Logo.jpg)
+
+The Energy Market Authority (EMA) is a statutory board under the Ministry of Trade and Industry. Our main goals are to ensure a reliable and secure energy supply, promote effective competition in the energy market and develop a dynamic energy sector in Singapore. Through our work, EMA seeks to forge a progressive energy landscape for sustained growth.
+
 
 
 [Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
