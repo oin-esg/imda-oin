@@ -34,7 +34,7 @@ Each proposal should address one problem statement only.
 
 [Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
 
-<font color="#a9a9a9">About Challenge Owner(s)</font>
+<font color="#a9a9a9">About Challenge Owner(s):</font>
 
 ![1](/images/ongoing-challenges/EMA_Logo.jpg)
 
