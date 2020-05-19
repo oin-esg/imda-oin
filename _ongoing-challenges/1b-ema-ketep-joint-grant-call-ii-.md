@@ -33,7 +33,10 @@ ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integ
 
 Each proposal should address one problem statement only.
 
-<font color="#a9a9a9">Energy Market Authority</font>
+
+[Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
+
+<font color="#a9a9a9">About Challenge Owner(s)</font>
 
 ![1](/images/ongoing-challenges/EMA_Logo.jpg)
 
@@ -41,4 +44,4 @@ The Energy Market Authority (EMA) is a statutory board under the Ministry of Tra
 
 
 
-[Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
+[Learn more](www.ema.gov.sg ){:target="_blank"}
