@@ -9,9 +9,10 @@ second_nav_title: Ongoing Challenges
 
 #### COVID-19 Detect & Protect Challenge
 
+<font color="#a9a9a9"><b>Challenge Owner(s): UNDP</b></font>
+
 ![1](/images/ongoing-challenges/COVID19DetectProtect Social Media_TW_1200x675_Red.png)
 
-<font color="#a9a9a9"><b>Challenge Owner(s): UNDP</b></font>
 
 **Application Open Dates: 14 April 2020 to 30 June 2020***<br>
 <font color=" #a9a9a9"><b>Hackster.io</b></font>
