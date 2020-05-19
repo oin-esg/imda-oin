@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Technical / Smart Grid and Renewable Energy Innovation on Jurong Island
-permalink: /smart-grid-and-renewable-energy-innovation-on-jurong-island/
-breadcrumb: Ongoing Challenges / Smart Grid and Renewable Energy Innovation on Jurong Island
+title: Technical / EMA-JTC Joint RFI 
+permalink: /ema-jtc-joint-rfi/
+breadcrumb: Ongoing Challenges / EMA-JTC Joint RFI 
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
 
-#### Smart Grid and Renewable Energy Innovation on Jurong Island
+#### EMA-JTC Joint RFI 
 
 **Request for Information on Technical / Conceptual Ideas for Smart Grid and Renewable Energy Innovation on Jurong Island**<br>
 
