@@ -1,13 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Technical / Conceptual Ideas for Smart Grid and Renewable Energy Innovation on Jurong Island
-permalink: /technical-conceptual-ideas-for-smart-grid-and-renewable-energy-innovation-on-jurong-island/
-breadcrumb: Ongoing Challenges / Conceptual Ideas for Smart Grid and Renewable Energy Innovation on Jurong Island
+title: Technical / Smart Grid and Renewable Energy Innovation on Jurong Island
+permalink: /smart-grid-and-renewable-energy-innovation-on-jurong-island/
+breadcrumb: Ongoing Challenges / Smart Grid and Renewable Energy Innovation on Jurong Island
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
 
-#### Information on Technical / Conceptual Ideas for Smart Grid and Renewable Energy Innovation on Jurong Island
+#### Smart Grid and Renewable Energy Innovation on Jurong Island
 
 **Request for Information on Technical / Conceptual Ideas for Smart Grid and Renewable Energy Innovation on Jurong Island**<br>
 
@@ -19,7 +19,6 @@ second_nav_title: Ongoing Challenges
 
 <font color=" #a9a9a9"><b>JTC Corporation</b></font>
 
-Challenge Description 
 JTC has launched an Request for Information (RFI) for technical/conceptual ideas for smart grid and renewable energy innovation on Jurong Island on 30 April 2020. This RFI invites the submission of proposals and innovative ideas to:
 
 (a)	Maximise solar deployment on Jurong Island (JI) and explore creative deployment of Energy Storage Systems;
