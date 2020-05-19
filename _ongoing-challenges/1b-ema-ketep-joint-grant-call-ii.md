@@ -22,11 +22,14 @@ Under Singapore’s ongoing collaboration with the Republic of Korea to pursue a
 
 <b>a)	Enabling the use of hydrogen for power generation in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
 
-i.	Safe and cost-effective technologies for storage, transportation and/or fuel delivery of hydrogen gas; and/or <br>
+i.	Safe and cost-effective technologies for storage, transportation and/or fuel delivery of hydrogen gas; and/or <br><br>
+
 ii.	Energy-efficient emissions-free pathways for hydrogen production, e.g. methane pyrolysis and water electrolysis.
 
 <b>b)	Facilitating the deployment of solar PV in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
-i.	Cost-effective grid integrated solar PV systems, e.g. portable PV; and/or <br>
+
+i.	Cost-effective grid integrated solar PV systems, e.g. portable PV; and/or<br><br>
+
 ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integrated/building-applied PV. 
 
 Each proposal should address one problem statement only.
