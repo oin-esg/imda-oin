@@ -17,9 +17,8 @@ second_nav_title: Ongoing Challenges
 **Application Open Dates: 8 May 2020 to 8 July 2020**<br>
 
 <font color=" #a9a9a9"><b>Energy Market Authority, Korea Institute of Energy Technology Evaluation and Planning</b></font>
-Under Singapore’s ongoing collaboration with the Republic of Korea to pursue and promote partnerships in the areas of smart grids and energy technologies, EMA and KETEP have launched the second EMA-KETEP Joint Grant Call. 
 
-The problem statements under this grant call are: 
+Under Singapore’s ongoing collaboration with the Republic of Korea to pursue and promote partnerships in the areas of smart grids and energy technologies, EMA and KETEP have launched the second EMA-KETEP Joint Grant Call. The problem statements under this grant call are: 
 
 <b>a)	Enabling the use of hydrogen for power generation in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
 
@@ -33,7 +32,6 @@ ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integ
 
 Each proposal should address one problem statement only.
 
-
 [Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
 
 <font color="#a9a9a9">About Challenge Owner(s)</font>
@@ -44,4 +42,4 @@ The Energy Market Authority (EMA) is a statutory board under the Ministry of Tra
 
 
 
-[Learn more](www.ema.gov.sg ){:target="_blank"}
+[Energy Market Authority](www.ema.gov.sg ){:target="_blank"}
