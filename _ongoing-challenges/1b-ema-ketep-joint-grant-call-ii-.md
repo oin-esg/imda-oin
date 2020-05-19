@@ -42,4 +42,4 @@ The Energy Market Authority (EMA) is a statutory board under the Ministry of Tra
 
 
 
-[Energy Market Authority](www.ema.gov.sg ){:target="_blank"}
+[Learn more](www.ema.gov.sg ){:target="_blank"}
