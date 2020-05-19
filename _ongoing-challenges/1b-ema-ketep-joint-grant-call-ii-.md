@@ -34,12 +34,3 @@ Each proposal should address one problem statement only.
 
 [Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
 
-<font color="#a9a9a9">About Challenge Owner(s):</font>
-
-![1](/images/ongoing-challenges/EMA_Logo.jpg)
-
-The Energy Market Authority (EMA) is a statutory board under the Ministry of Trade and Industry. Our main goals are to ensure a reliable and secure energy supply, promote effective competition in the energy market and develop a dynamic energy sector in Singapore. Through our work, EMA seeks to forge a progressive energy landscape for sustained growth.
-
-
-
-[Learn more](www.ema.gov.sg ){:target="_blank"}
