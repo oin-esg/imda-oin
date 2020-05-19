@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: COVID-19 and Beyond – Innovation for Social Good
+title: COVID-19 and Beyond
 permalink: /covid-19-and-beyond/
 breadcrumb: Ongoing Challenges / COVID-19 and Beyond – Innovation for Social Good
 collection_name: ongoing-challenges
