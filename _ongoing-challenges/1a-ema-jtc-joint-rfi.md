@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Technical / EMA-JTC Joint RFI 
+title:  EMA-JTC Joint RFI 
 permalink: /ema-jtc-joint-rfi/
 breadcrumb: Ongoing Challenges / EMA-JTC Joint RFI 
 collection_name: ongoing-challenges
