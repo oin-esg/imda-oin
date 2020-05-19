@@ -26,11 +26,11 @@ i.	Safe and cost-effective technologies for storage, transportation and/or fuel 
 ii.	Energy-efficient emissions-free pathways for hydrogen production, e.g. methane pyrolysis and water electrolysis.
 
 <b>b)	Facilitating the deployment of solar PV in Singapore and Korea. The proposed solution, where applicable, shall address one or more of the following sub-problem statements:</b>
-
 i.	Cost-effective grid integrated solar PV systems, e.g. portable PV; and/or <br>
 ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integrated/building-applied PV. 
 
 Each proposal should address one problem statement only.
+
 
 [Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"} 
 
