@@ -9,8 +9,6 @@ second_nav_title: Ongoing Challenges
 
 #### EMA-JTC Joint RFI 
 
-**Request for Information on Technical / Conceptual Ideas for Smart Grid and Renewable Energy Innovation on Jurong Island**<br>
-
 <font color="#a9a9a9"><b>Challenge Owner(s): JTC Corporation </b></font>
 
 ![1](/images/ongoing-challenges/SLP1 w logo and caption (002).png)
