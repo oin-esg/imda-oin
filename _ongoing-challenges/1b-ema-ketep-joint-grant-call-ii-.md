@@ -32,5 +32,5 @@ ii.	Creative deployment of solar PV in an urbanised context, e.g. building-integ
 
 Each proposal should address one problem statement only.
 
-[Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"}
+[Learn more](https://researchgrant.gov.sg/Pages/GrantCallDetail.aspx?AXID=EMA-EP008&CompanyCode=nrf){:target="_blank"} 
 
