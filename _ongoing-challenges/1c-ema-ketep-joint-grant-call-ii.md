@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: EMA-KETEP Joint Grant Call II
-permalink: /ema-ketep-joint-grant-call-ii/
-breadcrumb: Ongoing Challenges / EMA-KETEP Joint Grant Call II
+title: EMA-KETEP Call II
+permalink: /ema-ketep-call-ii/
+breadcrumb: Ongoing Challenges / EMA-KETEP Call II
 collection_name: ongoing-challenges
 second_nav_title: Ongoing Challenges
 ---
