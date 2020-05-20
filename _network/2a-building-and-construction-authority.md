@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Building & Construction Authority (BCA)
+title: Building & Construction Authority
 permalink: /network/building&consutrction-authority
-breadcrumb: Network / Building & Construction Authority (BCA)
+breadcrumb: Network / Building & Construction Authority
 collection_name: network
 second_nav_title: Public Agencies
 ---
