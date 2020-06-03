@@ -3,9 +3,8 @@ layout: leftnav-page-content
 title: National Innovation Challenges
 permalink: /national-innovation-challenges/
 breadcrumb: National Innovation Challenges
-collection_name: ongoing-challenges
+collection_name: national-challenges
 ---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-Looking for problem statements to address? Check out the ongoing open innovation challenges and stand a chance to testbed and validate your proposals with challenge owners within and beyond Singapore. 
-
-Are you keen to launch your open innovation challenge? Let us know [here](https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf){:target="_blank"}
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. [here](https://form.gov.sg/#!/5dafdae5d665e20012d3cdbf){:target="_blank"}
